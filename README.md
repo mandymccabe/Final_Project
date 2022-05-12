@@ -1,8 +1,11 @@
 # Final Project Janet's Notes
 
 ## Need to do
-* If using a SQL DB, must provide ERD with relationships
 
+## 5/12/2022 Steps taken
+* Created ERD with relationships
+* Created separate CSVs for news sources & the rest of the information - Primary Key is RespondentID
+* 
 ## 5-11-2022 Steps taken
 * Chose dataset from Kaggle: How access to data affects trust in news / How much do you trust the press?
   * 1020 rows
