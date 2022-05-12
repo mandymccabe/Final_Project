@@ -1,6 +1,6 @@
 # Final Project Janet's Notes
 ## 5-11-2022 Steps taken
-* Chose dataset from Kaggle How access to data affects trust in news / How much do you trust the press?
+* Chose dataset from Kaggle: How access to data affects trust in news / How much do you trust the press?
   * 1020 rows
 * Cleaned up csv & added useful column labels
 * Checked to make sure there was no garbage data
