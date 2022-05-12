@@ -1,4 +1,4 @@
-index,RespondentID,New_York_Times,Wall_Street_Journal,USA_Today,Washington_Post,Fox_News,Breitbart,CNN,BuzzFeed,Huffington_Post,Time,US_News_and_World_Report,Other,StartDate,EndDate
+indexID,RespondentID,New_York_Times,Wall_Street_Journal,USA_Today,Washington_Post,Fox_News,Breitbart,CNN,BuzzFeed,Huffington_Post,Time,US_News_and_World_Report,Other,StartDate,EndDate
 0,6176264298,1,0,1,0,0,0,1,0,0,1,0,0,5/1/2017 15:41,5/1/2017 15:43
 1,6176263960,1,0,0,0,0,0,1,0,0,0,0,0,5/1/2017 15:35,5/1/2017 15:43
 2,6176258621,1,0,0,1,0,0,0,0,0,0,0,BBC,5/1/2017 15:38,5/1/2017 15:40

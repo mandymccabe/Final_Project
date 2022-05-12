@@ -1,4 +1,4 @@
-index,RespondentID,Political_Views,Trust_In_Press,Online_Paid_Access,Impression_With_Access_To_Data,Trump_As_President,Age,Gender,Income,US_Region,StartDate,EndDate
+indexID,RespondentID,Political_Views,Trust_In_Press,Online_Paid_Access,Impression_With_Access_To_Data,Trump_As_President,Age,Gender,Income,US_Region,StartDate,EndDate
 0,6176264298,Moderate,Fair Amount,No,No Change,Strongly Disapprove,30-44,Male,"$10,000-$24,999",East South Central,5/1/2017 15:41,5/1/2017 15:43
 1,6176263960,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$0-$9,999",Middle Atlantic,5/1/2017 15:35,5/1/2017 15:43
 2,6176258621,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",East North Central,5/1/2017 15:38,5/1/2017 15:40
