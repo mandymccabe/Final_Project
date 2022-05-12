@@ -10,6 +10,11 @@
 * Moved original & cleaned CSVs to archive folder
 
 
+## Research Ideas from Kaggle
+* Which news outlets are most trusted by Americans?
+* How does trust in the press vary by age, gender, and political viewpoint?
+* What factors influence trust in the press among online news consumers?
+
 ## Questions (10 usable)
  * How would you describe your views on most political issues?
  * How much trust do you have in the press when it comes to reporting the news fully, accurately and fairly?
