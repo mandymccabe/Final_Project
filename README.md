@@ -1,4 +1,8 @@
 # Final Project Janet's Notes
+
+## Need to do
+* If using a SQL DB, must provide ERD with relationships
+
 ## 5-11-2022 Steps taken
 * Chose dataset from Kaggle: How access to data affects trust in news / How much do you trust the press?
   * 1020 rows
