@@ -4,6 +4,7 @@
   * 1020 rows
 * Cleaned up csv & added useful column labels
 * Checked to make sure there was no garbage data
+* Split the original CSV into 2 separate CSVs
   
 ## Questions (10 usable)
  * How would you describe your views on most political issues?
