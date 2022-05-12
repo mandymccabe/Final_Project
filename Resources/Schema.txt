@@ -1,0 +1,35 @@
+Final_Project_01
+-
+index int
+RespondentID int pk fk - Final_Project_News_Sources.RespondentID
+Political_Views varchar
+Trust_In_Press varchar
+Online_Paid_Access varchar
+Impression_With_Access_To_Data varchar
+Trump_As_President varchar
+Age varchar
+Gender varchar
+Income varchar
+US_Region varchar
+StartDate date
+EndDate date
+
+Final_Project_News_Sources
+-
+index int 
+RespondentID int pk
+New_York_Times varchar
+Wall_Street_Journal varchar
+USA_Today varchar
+Washington_Post varchar
+Fox_News varchar
+Breitbart varchar
+CNN varchar
+BuzzFeed varchar
+Huffington_Post varchar
+Time varchar
+US_News_and_World_Report varchar
+Other varchar
+StartDate date
+EndDate date
+
