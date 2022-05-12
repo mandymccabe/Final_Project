@@ -7,7 +7,9 @@
 * Split the original CSV into 2 separate CSVs
   - TrustInNewsViews
   - TrustInNewsDemographics
-  
+* Moved original & cleaned CSVs to archive folder
+
+
 ## Questions (10 usable)
  * How would you describe your views on most political issues?
  * How much trust do you have in the press when it comes to reporting the news fully, accurately and fairly?
