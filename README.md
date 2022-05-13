@@ -1,4 +1,7 @@
 # Final_Project
+## Selected Topic
+Our final project will be looking at the relationship between political views and trust in the media.  
+
 ## About the Data Source
 The dataset looks at the responses of over 1,000 Americans to find out about their demographics, media usage, and trust in the media. 
 
