@@ -13,3 +13,17 @@ We would like to use the dataset to determine an individual's political stance b
 
 ## Communication Protocols
 A group message was setup in Slack to easily share ideas and files amoungst the group members.  Additionally, Microsoft Teams will be used to setup ad hoc meetings to be able to have virtual discussions outside of class.  Phone numbers were also exchanged so that we will be able to call or text another team member in the event of an emergency. 
+
+# Technologies Used
+
+## Data Cleaning and Analysis
+We will be utilizing Pandas to clean the data and perform exploratory analysis. We will then use Python for further analyzing the data.
+
+## Database Storage
+We are using Postgres for our database.
+
+## Machine Learning
+We are using the SciKitLearn library to create a logistic regression classifier. We train, test and split the data using random_state and then test our accuracy score. 
+
+## Dashboard
+We intend to use Tableau to display our findings and present our data visualization dashboard to the class. 
