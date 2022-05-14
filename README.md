@@ -7,7 +7,7 @@ The dataset looks at the responses of over 1,000 Americans to find out about the
 
 This link goes to the raw dataset: [DataSet](https://github.com/mandymccabe/Final_Project/blob/main/Machine_Learning_Model.ipynb)
 
-This link explains what each column in the dataset corresponds to: 
+This link explains what each column in the dataset corresponds to: [Response Codes](https://github.com/mandymccabe/Final_Project/blob/main/Resources/Question%20and%20Response%20Codes.pdf)
 
 ## Why did we select this topic?
 We selected this topic because bias in the media is a common topic in current events.  We thought it would be interesting to see how different demographic inputs would affect media usage and political views.  
