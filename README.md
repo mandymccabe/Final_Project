@@ -5,6 +5,10 @@ Our final project will be looking at the relationship between political views an
 ## About the Data Source
 The dataset looks at the responses of over 1,000 Americans to find out about their demographics, media usage, and trust in the media. 
 
+This link goes to the raw dataset: [DataSet](https://github.com/mandymccabe/Final_Project/blob/main/Machine_Learning_Model.ipynb)
+
+This link explains what each column in the dataset corresponds to: 
+
 ## Why did we select this topic?
 We selected this topic because bias in the media is a common topic in current events.  We thought it would be interesting to see how different demographic inputs would affect media usage and political views.  
 
