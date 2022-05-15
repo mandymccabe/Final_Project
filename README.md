@@ -5,7 +5,7 @@ Our final project will be looking at the relationship between political views an
 ## About the Data Source
 The dataset looks at the responses of over 1,000 Americans to find out about their demographics, media usage, and trust in the media. 
 
-This link goes to the raw dataset: [DataSet](https://github.com/mandymccabe/Final_Project/blob/main/Machine_Learning_Model.ipynb)
+This link goes to the raw dataset: [DataSet](https://github.com/mandymccabe/Final_Project/blob/main/Resources/all_responses_coded.csv)
 
 This link explains what each column in the dataset corresponds to: [Response Codes](https://github.com/mandymccabe/Final_Project/blob/main/Resources/Question%20and%20Response%20Codes.pdf)
 
