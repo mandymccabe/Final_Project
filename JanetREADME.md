@@ -1,6 +1,8 @@
 # Final Project Janet's Notes
 
 ## Need to do
+9 census regions:
+https://www.ncei.noaa.gov/access/monitoring/reference-maps/us-census-divisions
 
 
 ## Steps taken
