@@ -2,11 +2,10 @@
 
 ## Need to do
 
-## 5/12/2022 Steps taken
+
+## Steps taken
 * Created ERD with relationships
 * Created separate CSVs for news sources & the rest of the information - Primary Key is RespondentID
-* 
-## 5-11-2022 Steps taken
 * Chose dataset from Kaggle: How access to data affects trust in news / How much do you trust the press?
   * 1020 rows
 * Cleaned up csv & added useful column labels
