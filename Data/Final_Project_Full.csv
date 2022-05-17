@@ -1,0 +1,1022 @@
+respondentid,political_views,trust_in_press,online_paid_access,impression_with_access_to_data,trump_as_president,age,gender,income,us_region,startdate,enddate,new_york_times,wall_street_journal,usa_today,washington_post,fox_news,breitbart,cnn,buzzfeed,huffington_post,time,us_news_and_world_report,other
+6176264298,Moderate,Fair Amount,No,No Change,Strongly Disapprove,30-44,Male,"$10,000-$24,999",East South Central,2017-05-01,2017-05-01,1,0,1,0,0,0,1,0,0,1,0,0
+6176263960,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$0-$9,999",Middle Atlantic,2017-05-01,2017-05-01,1,0,0,0,0,0,1,0,0,0,0,0
+6176258621,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",East North Central,2017-05-01,2017-05-01,1,0,0,1,0,0,0,0,0,0,0,BBC
+6176257082,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$125,000-$149,999",Mountain,2017-05-01,2017-05-01,0,0,0,1,0,0,0,0,0,0,0,"BBC News, and local news outlets "
+6176256111,Liberal,Fair Amount,Yes,No Change,Strongly Disapprove,30-44,Male,"$10,000-$24,999",Pacific,2017-05-01,2017-05-01,1,1,1,0,0,0,1,1,0,1,0,0
+6176254380,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$200,000 & up",Mountain,2017-05-01,2017-05-01,1,1,0,1,0,0,0,0,0,0,0,0
+6176253761,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$50,000-$74,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,None
+6176248227,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$10,000-$24,999",Pacific,2017-05-01,2017-05-01,0,0,0,0,1,0,1,0,0,0,0,0
+6176247712,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",West North Central,2017-05-01,2017-05-01,1,1,0,0,0,0,0,0,0,0,0,"NPR, Reuters, New Yorker, Al Jazeera English, The Onion"
+6176246249,Very Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6176240275,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$150,000-$174,999",New England,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,Boston Globe
+6176239653,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Male,"$75,000-$99,999",East North Central,2017-05-01,2017-05-01,1,0,0,0,0,0,1,0,0,0,0,0
+6176239120,Conservative,Fair Amount,Yes,Decrease Trust,Somewhat Approve,30-44,Male,"$0-$9,999",East North Central,2017-05-01,2017-05-01,1,1,1,0,1,0,1,0,0,0,0,0
+6176230911,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$0-$9,999",East North Central,2017-05-01,2017-05-01,1,0,0,1,0,0,1,0,1,0,0,0
+6176222414,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Female,"$50,000-$74,999",South Atlantic,2017-05-01,2017-05-01,1,1,0,0,1,0,1,0,1,0,1,0
+6176221532,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",West North Central,2017-05-01,2017-05-01,1,0,0,1,0,0,0,0,0,0,0,PBS and NPR. Also the Guardian from Great Britain.
+6176218682,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",East North Central,2017-05-01,2017-05-01,1,1,1,1,0,0,1,0,1,1,1,0
+6176210747,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,30-44,Male,"$50,000-$74,999",West South Central,2017-05-01,2017-05-01,0,0,1,0,0,0,0,0,1,1,1,0
+6176209160,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Female,"$50,000-$74,999",Middle Atlantic,2017-05-01,2017-05-01,1,1,0,0,0,0,0,0,0,0,0,0
+6176205330,Very Liberal,Not Very Much,No,No Change,Strongly Disapprove,30-44,Male,"$175,000-$199,999",East North Central,2017-05-01,2017-05-01,1,1,1,1,0,0,1,0,0,1,1,0
+6176205070,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,30-44,Male,Prefer Not To Answer,West South Central,2017-05-01,2017-05-01,1,1,0,1,0,0,1,0,0,1,0,"NPR, PBS, BBC, WIKITRIBUNE (once it rolls out)"
+6176199379,Conservative,Fair Amount,No,No Change,Strongly Approve,18-29,Female,"$0-$9,999",Pacific,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6176197758,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,60+,Female,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,1,0,0,1,0,0,1,0,0,0,0,0
+6176197497,Moderate,Not Very Much,No,Decrease Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",New England,2017-05-01,2017-05-01,0,0,1,0,0,0,0,0,0,0,1,0
+6176196061,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,None of them. You have to read around and think critically. 
+6176191434,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$125,000-$149,999",New England,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,1,0
+6176190631,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$50,000-$74,999",West North Central,2017-05-01,2017-05-01,0,1,0,0,0,0,1,0,1,1,0,0
+6176185417,Moderate,Not Very Much,No,No Change,Somewhat Approve,30-44,Male,"$0-$9,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,none
+6176180692,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Disapprove,18-29,Male,"$0-$9,999",East North Central,2017-05-01,2017-05-01,0,1,0,0,0,0,0,0,0,0,0,0
+6176173909,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Male,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,0,1,0,1,1,0,0,0,0,0,1,0
+6176166967,Very Liberal,None At All,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,1,0,0,0,0,0,0,0,0,0,0,0
+6176166265,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$25,000-$49,999",South Atlantic,2017-05-01,2017-05-01,1,1,0,0,0,0,0,0,0,0,0,0
+6176165359,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Male,Prefer Not To Answer,South Atlantic,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6176164444,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",West South Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,NPR
+6176151505,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$200,000 & up",Pacific,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,"UK Independent, AP, Reuters"
+6176147640,Conservative,Fair Amount,Yes,No Change,Somewhat Approve,18-29,Male,"$10,000-$24,999",0,2017-05-01,2017-05-01,0,0,0,0,0,0,1,0,0,0,0,0
+6176143182,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Female,Prefer Not To Answer,0,2017-05-01,2017-05-01,0,0,0,0,0,0,0,1,0,0,0,0
+6176135243,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$50,000-$74,999",Pacific,2017-05-01,2017-05-01,1,1,0,1,0,0,1,0,0,1,1,0
+6176132519,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$75,000-$99,999",South Atlantic,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,"None, but I look at several different outlets"
+6176128957,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",South Atlantic,2017-05-01,2017-05-01,0,1,0,0,0,0,0,0,0,1,1,0
+6176126463,Moderate,Not Very Much,No,No Change,Strongly Approve,45-59,Female,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6176125238,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,60+,Female,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,1,0,0,1,0,0,0,0,0,1,1,0
+6176124673,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,Prefer Not To Answer,South Atlantic,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,I don't trust any single source fully.
+6176113929,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$10,000-$24,999",South Atlantic,2017-05-01,2017-05-01,1,1,0,1,0,0,1,0,0,1,0,0
+6176096513,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",West North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,I don't trust any of them
+6176087671,Moderate,None At All,No,No Change,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,none
+6176085327,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$125,000-$149,999",New England,2017-05-01,2017-05-01,1,1,0,0,0,0,1,0,0,0,0,0
+6176082763,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$100,000-$124,999",Mountain,2017-05-01,2017-05-01,0,0,1,0,0,0,0,0,0,0,0,0
+6176063250,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$50,000-$74,999",East South Central,2017-05-01,2017-05-01,1,0,1,1,0,0,0,0,0,0,1,0
+6175970376,Conservative,None At All,No,Increase Trust,Strongly Approve,18-29,Male,"$25,000-$49,999",West South Central,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6175968438,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$75,000-$99,999",South Atlantic,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,"fully, accurately, and fairly - none, not a single news outlet"
+6175952654,Conservative,Not Very Much,No,No Change,Strongly Approve,30-44,Male,"$50,000-$74,999",Pacific,2017-05-01,2017-05-01,0,0,0,0,1,0,0,0,0,0,0,0
+6175936310,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,18-29,Male,"$100,000-$124,999",South Atlantic,2017-05-01,2017-05-01,1,1,0,1,0,0,1,0,0,0,0,0
+6175902619,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",Pacific,2017-05-01,2017-05-01,1,0,0,1,0,0,0,0,0,0,0,"Guardian, NPR"
+6175796220,Liberal,Fair Amount,No,No Change,Strongly Disapprove,18-29,Male,Prefer Not To Answer,Middle Atlantic,2017-05-01,2017-05-01,1,1,0,1,0,0,0,0,1,0,0,Other international outlets 
+6175757592,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$0-$9,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,1,0,0,0
+6175721406,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$75,000-$99,999",Pacific,2017-05-01,2017-05-01,1,1,1,1,0,0,0,0,0,0,0,0
+6175666740,Moderate,None At All,No,Increase Trust,Strongly Disapprove,30-44,Male,"$10,000-$24,999",East North Central,2017-05-01,2017-05-01,0,0,0,0,0,0,0,0,0,0,0,none
+6175650732,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",Middle Atlantic,2017-05-01,2017-05-01,1,1,1,1,0,0,1,0,0,1,1,0
+6175595990,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",West North Central,2017-05-01,2017-05-01,1,0,1,0,0,0,1,0,0,1,0,0
+6175577730,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,18-29,Male,"$25,000-$49,999",New England,2017-05-01,2017-05-01,1,0,0,0,0,0,1,0,0,0,1,0
+6175575232,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$200,000 & up",Mountain,2017-05-01,2017-05-01,1,1,0,1,0,0,1,0,0,1,1,0
+6175545225,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",West North Central,2017-04-30,2017-04-30,0,0,0,0,1,0,0,0,0,0,0,0
+6175543951,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,30-44,Male,"$50,000-$74,999",East South Central,2017-04-30,2017-04-30,1,1,1,1,1,0,0,0,0,1,0,0
+6175538052,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$50,000-$74,999",South Atlantic,2017-04-30,2017-04-30,0,0,0,0,0,0,0,0,0,0,0,Npr
+6175492622,Moderate,None At All,No,No Change,Somewhat Disapprove,18-29,Male,"$0-$9,999",West South Central,2017-04-30,2017-04-30,0,0,0,0,0,0,0,1,0,0,0,0
+6175475715,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$150,000-$174,999",East North Central,2017-04-30,2017-04-30,0,1,0,0,0,0,0,0,0,0,0,0
+6175452466,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-04-30,2017-04-30,0,0,0,0,1,0,0,0,0,0,0,0
+6175440990,Conservative,Fair Amount,Yes,Decrease Trust,Somewhat Approve,18-29,Male,"$10,000-$24,999",Pacific,2017-04-30,2017-04-30,1,1,1,1,1,1,1,1,1,1,1,0
+6175352617,Conservative,None At All,No,No Change,Somewhat Approve,30-44,Male,"$125,000-$149,999",West North Central,2017-04-30,2017-04-30,0,1,0,0,1,0,0,0,0,0,0,0
+6175331199,Conservative,Fair Amount,No,Decrease Trust,Somewhat Disapprove,30-44,Male,"$10,000-$24,999",West North Central,2017-04-30,2017-04-30,0,0,0,0,0,0,1,0,0,0,0,0
+6175326808,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$150,000-$174,999",East North Central,2017-04-30,2017-04-30,1,1,0,1,0,0,0,0,0,0,0,0
+6175288331,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",Pacific,2017-04-30,2017-04-30,0,1,0,0,0,0,0,0,0,0,0,0
+6175234025,Conservative,None At All,No,Increase Trust,Strongly Approve,18-29,Male,"$200,000 & up",East North Central,2017-04-30,2017-04-30,0,0,0,0,1,0,0,0,0,0,0,0
+6175217916,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",Pacific,2017-04-30,2017-04-30,1,1,0,1,0,0,0,0,0,1,1,"NPR, BBC News"
+6175208622,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$150,000-$174,999",Middle Atlantic,2017-04-30,2017-04-30,1,1,1,1,0,0,1,0,0,1,0,0
+6175188576,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Male,"$50,000-$74,999",West North Central,2017-04-30,2017-04-30,1,0,1,0,0,0,0,0,0,0,0,0
+6175109552,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,18-29,Male,"$75,000-$99,999",Mountain,2017-04-30,2017-04-30,0,0,0,0,1,0,0,0,0,0,0,0
+6175081432,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,Prefer Not To Answer,New England,2017-04-30,2017-04-30,0,0,0,0,0,0,0,0,0,0,0,None
+6175069051,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",West North Central,2017-04-30,2017-04-30,1,0,1,1,0,0,0,0,0,1,0,The Young Turks
+6175060163,Conservative,None At All,No,Increase Trust,Somewhat Approve,30-44,Male,"$200,000 & up",East South Central,2017-04-30,2017-04-30,0,1,0,0,1,0,0,0,0,0,1,0
+6175045530,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,Prefer Not To Answer,East North Central,2017-04-30,2017-04-30,0,0,0,0,0,0,0,0,0,0,0,The Blaze
+6175043034,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",New England,2017-04-30,2017-04-30,0,0,0,0,0,0,0,0,0,0,0,My curated Twitter feed of journalists
+6175031380,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,18-29,Male,Prefer Not To Answer,West North Central,2017-04-30,2017-04-30,1,1,0,0,0,0,0,0,0,0,0,0
+6175021362,Conservative,None At All,No,No Change,Somewhat Approve,30-44,Male,"$75,000-$99,999",South Atlantic,2017-04-30,2017-04-30,0,0,0,0,0,0,0,0,0,0,0,The no agenda show
+6174992718,Very Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$50,000-$74,999",West South Central,2017-04-30,2017-04-30,0,1,0,0,1,0,0,0,0,0,1,0
+6174964137,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$100,000-$124,999",West South Central,2017-04-29,2017-04-29,0,1,1,0,1,0,0,0,0,0,0,0
+6174963958,Conservative,Fair Amount,No,No Change,Somewhat Approve,18-29,Male,"$50,000-$74,999",Pacific,2017-04-29,2017-04-29,1,1,1,1,1,0,1,0,0,1,1,0
+6174949564,Very Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",East South Central,2017-04-29,2017-04-29,0,0,0,0,1,0,0,0,0,0,0,0
+6174942368,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$50,000-$74,999",South Atlantic,2017-04-29,2017-04-29,0,1,0,0,0,0,0,0,0,0,0,0
+6174940319,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$10,000-$24,999",West North Central,2017-04-29,2017-04-29,0,0,0,0,0,0,1,0,0,1,0,0
+6174938691,Conservative,Not Very Much,No,No Change,Strongly Approve,30-44,Male,"$50,000-$74,999",East North Central,2017-04-29,2017-04-29,0,0,0,0,1,0,0,0,0,0,0,0
+6174933174,Moderate,Fair Amount,Yes,Increase Trust,Strongly Approve,18-29,Male,"$150,000-$174,999",Pacific,2017-04-29,2017-04-29,1,1,0,1,0,0,0,0,0,0,0,"Economist, BBC, The Guardian"
+6174924286,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,Prefer Not To Answer,East North Central,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,"None, I read a variety to sort out biases"
+6174905782,Moderate,Fair Amount,Yes,Decrease Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",Middle Atlantic,2017-04-29,2017-04-29,1,1,0,1,0,0,0,0,1,1,1,0
+6174904819,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,18-29,Male,"$10,000-$24,999",Middle Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,None
+6174903897,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$0-$9,999",Middle Atlantic,2017-04-29,2017-04-29,1,1,1,1,0,0,1,0,1,1,1,0
+6174887554,Moderate,Fair Amount,No,Decrease Trust,Strongly Approve,30-44,Male,"$10,000-$24,999",West South Central,2017-04-29,2017-04-29,0,0,0,0,0,0,1,0,0,0,1,0
+6174882065,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$0-$9,999",South Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,The Colbert report 
+6174877215,Conservative,None At All,No,No Change,Strongly Approve,30-44,Male,"$50,000-$74,999",East North Central,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,DRUDGE REPORT
+6174817286,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",East South Central,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,"The Intercept...AP, AFP, Reuters"
+6174810375,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Male,Prefer Not To Answer,East North Central,2017-04-29,2017-04-29,1,0,0,1,0,0,0,0,0,0,0,0
+6174794249,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$0-$9,999",West South Central,2017-04-29,2017-04-29,1,1,1,1,0,0,1,0,0,1,1,0
+6174790001,Moderate,Fair Amount,Yes,Decrease Trust,Somewhat Approve,18-29,Male,Prefer Not To Answer,Pacific,2017-04-29,2017-04-29,0,0,0,0,1,0,0,0,0,0,0,0
+6174756846,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$10,000-$24,999",Pacific,2017-04-29,2017-04-29,1,1,0,0,0,0,1,0,0,1,0,0
+6174747637,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$50,000-$74,999",Middle Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,1,0
+6174736665,Very Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,18-29,Male,"$75,000-$99,999",Middle Atlantic,2017-04-29,2017-04-29,0,0,0,1,0,0,0,1,0,0,0,"narco news, telegraph and co, CBC, mojo (mostly)"
+6174726080,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",South Atlantic,2017-04-29,2017-04-29,0,0,1,0,0,0,1,0,0,0,1,0
+6174721507,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,Prefer Not To Answer,Middle Atlantic,2017-04-29,2017-04-29,1,0,0,1,0,0,0,0,0,0,1,0
+6174709818,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",West North Central,2017-04-29,2017-04-29,1,0,0,1,0,0,1,0,0,0,0,0
+6174704207,Moderate,None At All,No,No Change,Somewhat Disapprove,30-44,Male,Prefer Not To Answer,New England,2017-04-29,2017-04-29,0,0,0,0,0,0,1,0,0,0,0,0
+6174702857,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$25,000-$49,999",South Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,None
+6174669558,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$50,000-$74,999",West North Central,2017-04-29,2017-04-29,1,0,0,1,0,0,0,0,0,1,0,0
+6174560497,Conservative,Not Very Much,No,No Change,Somewhat Approve,30-44,Male,"$50,000-$74,999",West South Central,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,haha
+6174494532,Moderate,Not Very Much,Yes,No Change,Somewhat Approve,18-29,Male,"$0-$9,999",New England,2017-04-29,2017-04-29,0,1,0,1,0,0,0,0,0,0,0,0
+6174450847,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-29,2017-04-29,1,1,0,0,0,0,1,0,0,0,0,0
+6174422768,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",West North Central,2017-04-29,2017-04-29,1,1,0,1,0,0,1,0,0,1,1,0
+6174412996,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$50,000-$74,999",Mountain,2017-04-29,2017-04-29,1,0,0,1,0,0,1,0,1,1,1,0
+6174407789,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$100,000-$124,999",Pacific,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,Not sure
+6174400966,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$0-$9,999",New England,2017-04-29,2017-04-29,1,0,0,0,0,0,1,0,1,1,1,0
+6174395294,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Male,Prefer Not To Answer,New England,2017-04-29,2017-04-29,1,0,0,0,0,0,1,0,0,0,0,0
+6174375318,Conservative,None At All,No,No Change,Somewhat Approve,30-44,Male,"$125,000-$149,999",West North Central,2017-04-29,2017-04-29,0,1,0,0,1,0,0,0,0,0,0,0
+6174359081,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$25,000-$49,999",West South Central,2017-04-29,2017-04-29,0,0,0,0,1,1,0,0,0,0,0,0
+6174331626,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$10,000-$24,999",Middle Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,1,NBC News
+6174318028,Conservative,Not Very Much,Yes,No Change,Somewhat Approve,30-44,Male,"$100,000-$124,999",East North Central,2017-04-29,2017-04-29,0,0,0,0,1,0,0,0,0,0,1,0
+6174315975,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$50,000-$74,999",Mountain,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,"NPR, BBC"
+6174302906,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-04-29,2017-04-29,0,0,0,0,0,0,0,0,0,0,0,news 1 nj
+6174275073,Very Conservative,Not Very Much,No,No Change,Strongly Approve,18-29,Male,"$10,000-$24,999",East South Central,2017-04-28,2017-04-28,0,0,1,0,1,1,0,0,0,0,0,0
+6174248411,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,0,1,1,0
+6174171654,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,1,1,0,1,0,1,0,0,1,1,0
+6174170376,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,0,1,TheHill
+6174134823,Moderate,None At All,No,No Change,Somewhat Approve,30-44,Male,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6174104786,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,Catholic News Agency
+6174086628,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6174015385,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,1,0,0,0,0,0,0,1,1,0
+6174007291,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,30-44,Male,"$150,000-$174,999",West North Central,2017-04-28,2017-04-28,1,1,1,1,1,1,1,1,1,1,1,0
+6173999044,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6173982858,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Male,"$10,000-$24,999",West North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,0,0
+6173978380,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$125,000-$149,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,1,1,0
+6173925042,Conservative,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,1,0,1,0,0,0,1,0
+6173916198,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$100,000-$124,999",East South Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,1,"None of them, really. All biased to some degree."
+6173886554,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,45-59,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6173844521,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Approve,18-29,Male,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,1,0
+6173835288,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,1,1,1,1,0
+6173811536,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none of the above
+6173793287,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",Mountain,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,MSNBC
+6173790714,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC
+6173784706,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,The Week
+6173780585,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",Mountain,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6173772636,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,1,0,0,NPR
+6173761327,Very Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,I read the sources that are used. 
+6173761149,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,18-29,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,1,0,0
+6173750544,Moderate,None At All,Yes,Increase Trust,Somewhat Approve,30-44,Male,"$125,000-$149,999",South Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,"The London Times, "
+6173745647,Very Liberal,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$25,000-$49,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173684932,Moderate,Not Very Much,Yes,Increase Trust,Strongly Approve,30-44,Female,"$25,000-$49,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6173677940,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,30-44,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,no one
+6173667768,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,0,1,0,0
+6173660763,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$150,000-$174,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,1,1,1,1,0,0
+6173613769,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"None listed, you should not force an answer here."
+6173611865,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,1,0
+6173592306,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$175,000-$199,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None. I feel they all report the news based on their own agenda. 
+6173589823,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6173583003,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6173576606,Conservative,Fair Amount,Yes,No Change,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,0,0,0,0
+6173510067,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,0,0,1,1,1,0
+6173507362,Very Liberal,Fair Amount,No,No Change,Strongly Disapprove,30-44,Male,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,1,1,PBS
+6173439869,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,0
+6173433324,Liberal,Not Very Much,No,No Change,Strongly Disapprove,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,1,1,1,0,0
+6173423522,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,1,0,0
+6173423474,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6173419157,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$125,000-$149,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,1,1,1,0,0
+6173414540,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6173412157,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,1,0,0
+6173409048,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",East South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,0
+6173401687,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,1,1,1,1,0,0
+6173401397,Conservative,None At All,No,No Change,Strongly Approve,30-44,Male,"$175,000-$199,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173400495,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6173394402,Very Conservative,Fair Amount,Yes,Increase Trust,Strongly Approve,30-44,Male,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6173386716,Moderate,Not Very Much,Yes,No Change,Somewhat Disapprove,18-29,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173385359,Conservative,Not Very Much,No,No Change,Somewhat Approve,18-29,Female,"$100,000-$124,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173375392,Moderate,None At All,No,Decrease Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6173361506,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,"$150,000-$174,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173360291,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$150,000-$174,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6173358925,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,0,0,msnbc
+6173357930,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$100,000-$124,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173355367,Liberal,None At All,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6173354114,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$0-$9,999",West South Central,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,1,1,0,0
+6173351249,Moderate,None At All,No,Increase Trust,Somewhat Approve,30-44,Female,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Honest journalism does not exist.
+6173351142,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,NPR
+6173350935,Moderate,Fair Amount,No,No Change,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Mountain,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6173349576,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,1,0,0,0
+6173343880,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6173341073,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,0
+6173339800,Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Female,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6173338895,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,1,1,0
+6173337062,Conservative,Fair Amount,No,Decrease Trust,Somewhat Disapprove,30-44,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,1,0,0
+6173336212,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",New England,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,1,0,0
+6173332833,Conservative,None At All,No,No Change,Somewhat Approve,30-44,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,OAN
+6173328418,Moderate,Not Very Much,No,No Change,Somewhat Approve,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6173328247,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6173328036,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,0,1,0
+6173322454,Very Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None of the above
+6173317125,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",East South Central,2017-04-28,2017-04-28,1,1,1,0,0,0,1,0,0,1,0,NPR
+6173313704,Moderate,Fair Amount,No,No Change,Somewhat Disapprove,18-29,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,1,0,0
+6173311838,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$75,000-$99,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6173311761,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173309021,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Female,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,ABC News
+6173307182,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,0,1,0,1,0,0
+6173303727,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,Guardian
+6173300741,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$150,000-$174,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6173299737,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6173294872,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6173294830,Liberal,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,30-44,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,1,0
+6173288870,Very Conservative,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,0,0
+6173287913,Moderate,None At All,No,Increase Trust,Somewhat Approve,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,RT
+6173285402,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,"$125,000-$149,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Read many of them but then do own research
+6173283701,Moderate,Great Deal,No,No Change,Strongly Disapprove,30-44,Female,Prefer Not To Answer,0,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,1,1,The Atlantic
+6173280348,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,18-29,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6173278692,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"NPR, VICE"
+6173274230,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,0,0,0
+6173274178,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,BBC 
+6173271765,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,1,NPR
+6173268232,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",East South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,0,0
+6173266509,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,CBS This Morning
+6173261956,Moderate,None At All,No,Increase Trust,Somewhat Approve,30-44,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173260646,Liberal,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,0,0,0,1,1,0
+6173251477,Very Liberal,None At All,No,Increase Trust,Strongly Disapprove,30-44,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC news 
+6173249816,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,30-44,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,"Msnbc, cbs"
+6173235846,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,1,0
+6173233598,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,0,0,0,0
+6173226549,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,1,0,0
+6173218248,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Approve,30-44,Male,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6173215531,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173213717,Conservative,Great Deal,No,Increase Trust,Somewhat Approve,30-44,Female,"$150,000-$174,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,1,0,0,0,Click on Detroit
+6173212168,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173211934,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Female,"$50,000-$74,999",East South Central,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,0
+6173209913,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$150,000-$174,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173200023,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Female,"$0-$9,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,1,1,1,0
+6173197031,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6173196760,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,0,0,0
+6173194346,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,0,0,1,1,1,0
+6173193697,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$200,000 & up",West South Central,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,0,0,0
+6173192375,Liberal,Great Deal,No,No Change,Strongly Disapprove,30-44,Male,"$150,000-$174,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Npr 
+6173184103,Moderate,Fair Amount,No,Decrease Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,1,0
+6173183587,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Local
+6173176326,Very Conservative,None At All,Yes,Increase Trust,Strongly Approve,18-29,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,1,0,0
+6173172742,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Male,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,BBC
+6173171658,Moderate,Not Very Much,No,No Change,Strongly Approve,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,I don't fully trust any news
+6173170241,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,NPR
+6173165682,Conservative,None At All,No,Increase Trust,Somewhat Approve,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173164904,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173164590,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6173163023,Conservative,Fair Amount,No,Increase Trust,Strongly Approve,45-59,Male,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6173162659,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,1,1,1,0,0,0,0,1,1,1,0
+6173161483,Conservative,Fair Amount,No,No Change,Somewhat Approve,60+,Male,"$200,000 & up",Middle Atlantic,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,1,0,STAR LEDGER 
+6173156574,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6173156098,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,1,1,0,0,0,1,0,0,1,1,0
+6173152835,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,0
+6173149858,Moderate,None At All,No,Decrease Trust,Strongly Approve,60+,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173149453,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,0,0,"NPR, first on the list of most trusted"
+6173146354,Moderate,Great Deal,No,No Change,Strongly Approve,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,1,0,0,0,1,0,0,0,0,0,0,0
+6173137857,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"bbc, npr"
+6173136393,Liberal,Great Deal,Yes,No Change,Strongly Disapprove,45-59,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,1,1,0
+6173133493,Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173130075,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,1,0,0,0
+6173126973,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6173119208,Moderate,None At All,Yes,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6173118475,Moderate,Great Deal,No,No Change,Strongly Disapprove,60+,Male,"$10,000-$24,999",New England,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6173116840,Very Conservative,None At All,No,No Change,Strongly Approve,60+,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173109031,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,60+,Male,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6173106606,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$150,000-$174,999",East North Central,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6173093933,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6173091155,Liberal,Not Very Much,No,No Change,Strongly Disapprove,45-59,Male,"$0-$9,999",Mountain,2017-04-28,2017-04-28,0,0,0,1,1,0,1,0,0,0,1,0
+6173087321,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$75,000-$99,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6173080705,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,1,0,0,MSNBC
+6173077503,Conservative,Great Deal,No,No Change,Somewhat Disapprove,45-59,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,1,0,1,0,1,0,0,0,0,0
+6173072870,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173069168,Conservative,None At All,No,Decrease Trust,Somewhat Approve,45-59,Male,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none fully accurately and fairly
+6173066575,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173058005,Moderate,Not Very Much,No,No Change,Somewhat Approve,30-44,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173056852,Very Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$125,000-$149,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,google
+6173055179,Moderate,Fair Amount,No,Decrease Trust,Somewhat Disapprove,30-44,Female,"$10,000-$24,999",West South Central,2017-04-28,2017-04-28,1,0,1,0,1,0,0,0,1,1,0,0
+6173049872,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,0,1,0,0
+6173047611,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR 
+6173046032,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",Mountain,2017-04-28,2017-04-28,1,0,1,0,0,0,0,0,0,1,0,0
+6173044727,Moderate,Not Very Much,No,No Change,Strongly Disapprove,60+,Male,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6173043014,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,0,0,0
+6173035898,Very Conservative,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",East South Central,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,0
+6173035807,Very Liberal,Fair Amount,No,No Change,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6173029473,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$25,000-$49,999",New England,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6173022606,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,60+,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,1,0,0
+6173020335,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,1,NBC News
+6173020112,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,1,0,0
+6173018025,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6173015762,Moderate,Not Very Much,No,No Change,Strongly Disapprove,30-44,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6173011533,Moderate,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$125,000-$149,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC
+6173009344,Moderate,None At All,No,No Change,Somewhat Approve,18-29,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,1,0,1,0,1,0,0,0,0,0
+6173005642,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,Slate
+6173005186,Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6173002829,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6172998389,Liberal,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,1,0,1,0
+6172996316,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,1,0,My local paper: The Statesman Journal
+6172995149,Moderate,Fair Amount,No,No Change,Somewhat Approve,18-29,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172994496,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,0
+6172992620,Very Liberal,Not Very Much,No,Decrease Trust,Somewhat Disapprove,18-29,Female,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,1,0
+6172985110,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172982888,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$25,000-$49,999",0,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172979676,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,MSNBC
+6172975930,Moderate,Fair Amount,No,Decrease Trust,Somewhat Approve,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,1,1,1,0,1,0,1,0,0,0,1,0
+6172975411,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172974992,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,1,1,0
+6172974212,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Female,"$100,000-$124,999",West North Central,2017-04-28,2017-04-28,0,0,1,1,1,0,1,0,0,0,0,0
+6172973518,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Male,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172968525,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,1,1,0
+6172960441,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NONE
+6172959995,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"NONE,  YOU ALL HAVE AN AGENDA YOU TRY TO PUSH."
+6172959501,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172959467,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172959087,Moderate,Fair Amount,No,No Change,Strongly Approve,45-59,Male,"$125,000-$149,999",West South Central,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172958402,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,1,1,0,0,0,0
+6172957256,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,One America News network
+6172956371,Conservative,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,1,1,1,0,0,0
+6172956262,Moderate,None At All,No,Increase Trust,Strongly Approve,30-44,Female,"$25,000-$49,999",Mountain,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172951874,Moderate,None At All,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172950705,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Mountain,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,0,0,0
+6172948597,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172946555,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,1,0
+6172946503,Conservative,None At All,No,No Change,Somewhat Disapprove,30-44,Female,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,1,0
+6172945558,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,1,1,0,0,1,0
+6172937766,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,1,1,1,0
+6172936793,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,0,0,0
+6172936399,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$100,000-$124,999",New England,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,1,0,0
+6172934191,Liberal,Not Very Much,No,Decrease Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6172931199,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$200,000 & up",Mountain,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172929719,Very Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172926949,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172925985,Moderate,None At All,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",East South Central,2017-04-28,2017-04-28,0,1,0,0,0,0,1,0,0,0,1,0
+6172924865,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,1,1,0,0,0
+6172924701,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,1,0,0
+6172923763,Moderate,Not Very Much,No,No Change,Strongly Approve,30-44,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172923527,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,1,NPR radio
+6172920236,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,1,0,0,"NPR, PBS, Democracy Now"
+6172920196,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,0
+6172917831,Very Conservative,None At All,No,No Change,Strongly Approve,45-59,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172916297,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172914351,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Npr
+6172913977,Liberal,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172913791,Moderate,None At All,No,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172913030,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$0-$9,999",Mountain,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172912679,Very Liberal,Fair Amount,Yes,Decrease Trust,Somewhat Approve,45-59,Male,"$25,000-$49,999",0,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172912325,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$150,000-$174,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,1,0
+6172911780,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,1,0,0,0,0
+6172910190,Moderate,None At All,Yes,Increase Trust,Somewhat Disapprove,45-59,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,the economist
+6172909326,Very Liberal,Fair Amount,Yes,No Change,Strongly Disapprove,60+,Female,"$75,000-$99,999",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6172908202,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,1,1,0,0
+6172907626,Moderate,Fair Amount,No,No Change,Strongly Disapprove,18-29,Female,"$0-$9,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,don't keep up with news
+6172905573,Conservative,Not Very Much,No,No Change,Strongly Approve,45-59,Male,"$100,000-$124,999",0,2017-04-28,2017-04-28,0,0,0,1,1,0,0,0,0,1,0,0
+6172904736,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6172902601,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"Democracy Now, The Young Turks, Al Jazeera, BBC, CBC, Reuters. I trust several of the options listed on most matters, however, many are quick to beat the war drum without enacting the same level of scrutiny they devote to other issues. This makes me question their agenda."
+6172902422,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,0,0
+6172901980,Moderate,Not Very Much,No,No Change,Strongly Disapprove,18-29,Female,"$10,000-$24,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6172901060,Conservative,Fair Amount,No,Decrease Trust,Somewhat Disapprove,18-29,Female,"$0-$9,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,1,0,0,0
+6172899675,Conservative,Fair Amount,No,Increase Trust,Strongly Approve,60+,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,1,0,0,0,0,0,0
+6172897611,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6172896765,Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,1,0
+6172896137,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,18-29,Male,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6172895869,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,1,1,0,0,1,0,1,0,0,1,0,0
+6172894510,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,One America News Network OANN.com
+6172894291,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172893863,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172893730,Liberal,Fair Amount,Yes,No Change,Strongly Disapprove,18-29,Female,"$0-$9,999",West North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,0,0,0
+6172893318,Moderate,Fair Amount,Yes,Increase Trust,Strongly Approve,45-59,Male,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172892835,Liberal,Fair Amount,No,No Change,Strongly Disapprove,45-59,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172891673,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,MSNBC
+6172886338,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,0,0,0,0
+6172886255,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Male,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6172886238,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,1,0,1,0,1,0,0,0,0,0
+6172883475,Conservative,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",Pacific,2017-04-28,2017-04-28,1,0,1,0,0,0,0,0,0,1,1,0
+6172882844,Liberal,Not Very Much,Yes,Increase Trust,Somewhat Disapprove,45-59,Male,"$200,000 & up",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,0,0,0
+6172882808,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$150,000-$174,999",Mountain,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,Slate
+6172882442,Moderate,None At All,No,No Change,Somewhat Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6172882043,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$0-$9,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172881998,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,0,"NPR, Al-jazeera, vice"
+6172880901,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"NPR, PBS, "
+6172880126,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",West North Central,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,1,0,0,"NPR, BBC"
+6172879966,Moderate,Great Deal,Yes,No Change,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,1,0,0,MSNBC
+6172879680,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",New England,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,"BBC, Economist"
+6172877903,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172877713,Moderate,None At All,No,Increase Trust,Strongly Approve,18-29,Male,"$0-$9,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,1,0,0,0,0,0,0,0
+6172877129,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Male,"$125,000-$149,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172876885,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172876486,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"None,  I read all sources to find consistency to determine accuracy"
+6172876172,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Google
+6172875917,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,1,0,0
+6172873901,Liberal,Not Very Much,No,No Change,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,1,1,0
+6172873801,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,Guardian. 1.
+6172873772,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,"The Gateway Pundit, Hotair, Newsbusters"
+6172873596,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,0
+6172872876,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,San Diego Union Tribune
+6172872362,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,1,1,0
+6172872336,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-27,2017-04-28,1,1,0,1,0,0,1,0,0,0,0,Economist
+6172871515,Moderate,Not Very Much,No,Decrease Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,1,0,1,0
+6172866946,Moderate,Not Very Much,No,Decrease Trust,Strongly Disapprove,30-44,Female,"$0-$9,999",0,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,1,0,BBC
+6172866364,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,0,0,0
+6172866130,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",Mountain,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,0,0,0
+6172865846,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$175,000-$199,999",South Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,0,0,0
+6172865781,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172865516,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,45-59,Female,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172865509,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Female,"$25,000-$49,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172865502,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,1,1,0
+6172865396,Very Conservative,None At All,No,No Change,Strongly Approve,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172864462,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$25,000-$49,999",0,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,1,1,0,0
+6172863717,Conservative,None At All,Yes,No Change,Strongly Approve,60+,Male,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172863470,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,1,0
+6172863434,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172861724,Liberal,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$100,000-$124,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NBC
+6172860933,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172860450,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,West South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6172859986,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,1,0,0,0,0,0
+6172859925,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,1,0,0
+6172859525,Liberal,Not Very Much,No,No Change,Strongly Disapprove,18-29,Female,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,1,0
+6172859474,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172859465,Conservative,None At All,Yes,Increase Trust,Strongly Approve,60+,Male,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172858790,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172858787,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172858484,Very Conservative,Not Very Much,No,No Change,Strongly Approve,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172858154,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Female,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6172857667,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Male,"$150,000-$174,999",East North Central,2017-04-28,2017-04-28,0,1,1,0,0,0,1,0,0,0,0,0
+6172857429,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$150,000-$174,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6172857380,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,1,0,0
+6172855918,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,1,0,0
+6172855699,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172855088,Very Liberal,None At All,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$150,000-$174,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,"UK Guardian, PBS"
+6172855017,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,1,0,0,0,0
+6172853747,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172853681,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Female,"$175,000-$199,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172853575,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172852046,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,West North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172851124,Moderate,Great Deal,No,No Change,Strongly Disapprove,45-59,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,0,0,0
+6172851073,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,0,1,0
+6172851051,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,60+,Female,"$175,000-$199,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,1,1,Local news programming
+6172850835,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172850766,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172850475,Conservative,Not Very Much,No,No Change,Somewhat Approve,60+,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,I question most news agencies
+6172850247,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Female,"$175,000-$199,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,1,0,0
+6172848945,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172848937,Moderate,Not Very Much,No,Decrease Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",West South Central,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,0,1,0,0
+6172848818,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,1,1,0,0,0,0,1,1,1,0
+6172848601,Very Conservative,Not Very Much,No,Decrease Trust,Strongly Approve,45-59,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172848147,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,1,1,0,0
+6172847980,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,TV
+6172847967,Conservative,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,1,0,0
+6172847596,Conservative,Not Very Much,Yes,Decrease Trust,Strongly Approve,45-59,Female,"$125,000-$149,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172847373,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,San Jose Mercury-News
+6172847143,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,ABC news
+6172846725,Conservative,Not Very Much,No,No Change,Somewhat Approve,60+,Female,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,0,1,0,0,0,0,0,0,0
+6172845033,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172844922,Very Liberal,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,1,1,1,0
+6172844916,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,1,0,0,0
+6172844767,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,1,0,0,0,1,0,0,1,1,0
+6172844724,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172843899,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$125,000-$149,999",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6172843839,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,Prefer Not To Answer,West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"None. I think most, if not all, have a slant."
+6172843597,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,1,1,1,0,1,0,0,0,0,0
+6172841628,Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None by self
+6172840886,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Disapprove,60+,Female,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172839268,Conservative,None At All,Yes,Increase Trust,Somewhat Approve,18-29,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,1,1,0,0,0,0,0,0,0,1,0
+6172838988,Moderate,Fair Amount,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,1,0,0,0
+6172838368,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"CBS, NBC, ABC"
+6172838306,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172837331,Liberal,Not Very Much,No,No Change,Strongly Disapprove,45-59,Male,"$10,000-$24,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,1,1,0,0,0
+6172836252,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,0,1,0,MSNBC
+6172835898,Very Conservative,Not Very Much,No,No Change,Somewhat Approve,60+,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172835757,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,0,1,0
+6172833324,Conservative,Not Very Much,No,No Change,Strongly Approve,45-59,Male,"$150,000-$174,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172832832,Conservative,Not Very Much,No,No Change,Somewhat Approve,45-59,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None of them.  I read articles from various places to determine the validity.
+6172832802,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,0
+6172831917,Conservative,Fair Amount,Yes,Increase Trust,Strongly Approve,60+,Male,"$200,000 & up",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172831731,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172830593,Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172830146,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,"BBC, Reuter"
+6172829668,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,0
+6172828397,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Female,"$150,000-$174,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172828346,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,60+,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,0,1,0,0
+6172828003,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",Mountain,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,1,1,0
+6172827857,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,60+,Male,Prefer Not To Answer,West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Pbs
+6172827786,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172827672,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,1,0,1,0,0
+6172827437,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,0,0,NPR
+6172827129,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Female,"$75,000-$99,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172827063,Moderate,Fair Amount,No,No Change,Strongly Disapprove,45-59,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,1,0
+6172827027,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Male,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,The Oregonian
+6172826425,Moderate,Not Very Much,No,Decrease Trust,Strongly Approve,45-59,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,1,0,1,0,1,0,0,1,0,0
+6172825822,Very Conservative,Great Deal,Yes,No Change,Strongly Disapprove,45-59,Female,"$10,000-$24,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,1,0
+6172825601,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,1,0,PBS & NPR
+6172825145,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,1,1,1,0,1,0,1,0,1,0
+6172824813,Very Liberal,Not Very Much,No,No Change,Strongly Disapprove,30-44,Female,Prefer Not To Answer,East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6172823962,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172823770,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$25,000-$49,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6172823643,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172823470,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,0,0,0,0,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,1,0
+6172823382,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,1,1,0
+6172823375,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Mountain,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,0,0,"PBS, BBC"
+6172822659,Conservative,None At All,Yes,Increase Trust,Strongly Approve,60+,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172821901,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Male,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172821562,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,1,0,0
+6172821113,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,0,1,1,1,1,0
+6172820699,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172820531,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,0,0,0
+6172820228,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,1,0,0,1,0,1,0,0,1,0,0
+6172820170,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",0,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,0
+6172820067,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,45-59,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,San Jose Mercury News
+6172819823,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,1,0,0,0
+6172818555,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,1,0,1,Public Radio and TV
+6172818236,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6172817943,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Disapprove,45-59,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,1,0
+6172817167,Moderate,Not Very Much,No,No Change,Somewhat Approve,60+,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172817100,Very Conservative,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,1,0,0,0
+6172817012,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None of the above.  All are biased in some way.
+6172816161,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,0,0,0
+6172815918,Conservative,None At All,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172815349,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,1,1,1,0,0,1,0,0,1,1,0
+6172815230,Liberal,Fair Amount,No,No Change,Strongly Approve,30-44,Female,"$10,000-$24,999",0,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,0,0,1,0
+6172815050,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,1,0,0,0
+6172813873,Moderate,None At All,No,No Change,Somewhat Approve,30-44,Female,"$75,000-$99,999",New England,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,Democracy Now! 
+6172813442,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,MSNBC
+6172812457,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,1,0,1,0,1,1,1,0
+6172812456,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,45-59,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,Salzburger Nachtritung
+6172812432,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,0,NPR
+6172811825,Moderate,None At All,No,No Change,Somewhat Approve,45-59,Female,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172811406,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,CBS
+6172809245,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,45-59,Female,"$125,000-$149,999",West North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,0
+6172808770,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Female,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,1,0,1,0,1,1,1,0,1,1,0,0
+6172808025,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172807885,Very Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172806143,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$200,000 & up",East North Central,2017-04-28,2017-04-28,1,1,1,1,1,0,0,0,1,0,1,0
+6172805330,Liberal,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,45-59,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,"BBC, France 1, Radio France"
+6172804929,Moderate,Fair Amount,No,No Change,Strongly Disapprove,30-44,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,1,0,1,0,1,0,0,1,1,0
+6172804757,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,MSNBC
+6172804632,Very Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172804591,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,0,0,1,1,0,0,0,0,1,1,0
+6172804409,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,0,1,0,0,0,0,0,Drudge
+6172804225,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,1,0
+6172803990,Liberal,None At All,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Wiki leaks and Assange
+6172803547,Very Conservative,None At All,No,No Change,Strongly Approve,60+,Male,Prefer Not To Answer,West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172803414,Liberal,None At All,No,No Change,Somewhat Disapprove,30-44,Female,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NONE.
+6172803351,Conservative,None At All,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172803015,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172802822,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$200,000 & up",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,1,0
+6172802738,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172800342,Very Conservative,Fair Amount,No,Increase Trust,Strongly Approve,60+,Female,"$10,000-$24,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,1,0,0,0,0,0,0
+6172800001,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Female,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172799778,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,1,1,0
+6172799335,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$125,000-$149,999",West North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,1,1,0
+6172798964,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",0,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,1,0,0,0
+6172797835,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,1,0,0
+6172797573,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,1,1,0,0,0,0,1,1,1,0
+6172797480,Conservative,Not Very Much,Yes,No Change,Strongly Approve,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,1,0,0
+6172795492,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,The economist 
+6172795418,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,0,0
+6172795194,Moderate,None At All,No,Increase Trust,Somewhat Approve,60+,Female,"$100,000-$124,999",Mountain,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172794871,Conservative,None At All,No,No Change,Strongly Approve,45-59,Female,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172794113,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$50,000-$74,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,1,1,0,0
+6172793953,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,0,1,0
+6172793952,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172793036,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",New England,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172792947,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172792650,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$200,000 & up",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,Eclectablog
+6172792444,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,"Mother Jones, Foreign Affairs"
+6172792187,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172792118,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$100,000-$124,999",New England,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172792012,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",New England,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,1,0,1,0
+6172791968,Liberal,None At All,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,All news sites have their own agenda and skew the material to their point of view 
+6172791139,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,NPR
+6172790273,Moderate,Great Deal,No,No Change,Strongly Disapprove,45-59,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,0,1,0
+6172790040,Conservative,Fair Amount,No,No Change,Somewhat Disapprove,60+,Female,Prefer Not To Answer,West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,no way to trust them anymore!!
+6172789092,Very Conservative,None At All,Yes,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,1,1,0,1,0,0,0,0,0,0,"Newsmax, and The Week."
+6172788386,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,1,0,0,"Pro publica, NPR"
+6172787570,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,Abc news 
+6172786974,Moderate,None At All,No,No Change,Somewhat Approve,60+,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172786844,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,1,0,1,0,0,1,1,0,1,1,0
+6172786727,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,The media is censored and we do not get the real story
+6172786201,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,1,1,0,0
+6172786025,Moderate,None At All,No,Increase Trust,Somewhat Approve,60+,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172785566,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,0,0,"NPR, BBC"
+6172784369,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6172783959,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Female,"$10,000-$24,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,1,0,0,0
+6172783710,Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,1,0,0
+6172783673,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172782980,Liberal,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$50,000-$74,999",0,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,0
+6172782886,Liberal,Fair Amount,No,No Change,Strongly Approve,60+,Female,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172782459,Moderate,Fair Amount,Yes,No Change,Strongly Disapprove,60+,Male,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,1,1,0,0,0,0,0,0,1,1,0
+6172781912,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,0,1,0,1,0,0,0,0,0,0,0,0
+6172780919,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$100,000-$124,999",East South Central,2017-04-28,2017-04-28,1,1,1,1,0,0,0,0,0,1,1,PBS Newshour
+6172780764,Moderate,Not Very Much,No,No Change,Somewhat Approve,45-59,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172780376,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172779884,Liberal,Fair Amount,No,Decrease Trust,Strongly Disapprove,45-59,Female,"$200,000 & up",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172779536,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,msnbc
+6172778632,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,1,1,0,0
+6172777989,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$175,000-$199,999",Pacific,2017-04-28,2017-04-28,1,0,1,1,1,0,1,0,0,1,0,0
+6172777354,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Male,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,0,1,1,0
+6172776999,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,1,KPCC public radio
+6172776177,Conservative,Fair Amount,No,No Change,Somewhat Approve,45-59,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172776152,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,30-44,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172775360,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,1,0,0,0
+6172775130,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,1,0
+6172774640,Conservative,None At All,No,Increase Trust,Strongly Approve,30-44,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172774449,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$125,000-$149,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"ABCnews.com, Fort Worth Star-Telegram"
+6172774442,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,1,0
+6172774175,Liberal,Fair Amount,No,Decrease Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172773202,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,1,1,1,0,0,0,0,0,0,1,0,0
+6172772925,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",Mountain,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,0,0
+6172771596,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,0,0,0,0
+6172770634,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,1,0,0
+6172770384,Conservative,None At All,No,No Change,Strongly Approve,45-59,Female,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172770319,Conservative,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,1,0
+6172770269,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172770204,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$175,000-$199,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6172770034,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172769319,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,18-29,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,1,1,0,0
+6172768981,Moderate,Fair Amount,No,Decrease Trust,Strongly Disapprove,18-29,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,1,0,0
+6172768825,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,0,0
+6172768769,Liberal,Not Very Much,No,No Change,Strongly Disapprove,30-44,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,1,0,0
+6172768531,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,1,0,The Daily Show
+6172768304,Moderate,Great Deal,No,Increase Trust,Somewhat Disapprove,60+,Female,"$10,000-$24,999",New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,1,0,0
+6172768168,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,Npr
+6172767226,Very Liberal,None At All,No,No Change,Somewhat Approve,18-29,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172766652,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,1,1,0,0
+6172765743,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",East North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,1,0,0,0,0,0
+6172765652,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,0,0,0,0
+6172765530,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$125,000-$149,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,The Economist
+6172764206,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$200,000 & up",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172764008,Conservative,Fair Amount,No,No Change,Strongly Disapprove,60+,Male,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172763723,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,BBC News
+6172763461,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,1,0,1,0,0,1,0,1,1,1,0
+6172762872,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,CBS
+6172760846,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,OPB
+6172760453,Liberal,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,60+,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,1,0
+6172759644,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,1,0
+6172759372,Moderate,None At All,No,No Change,Somewhat Disapprove,18-29,Female,"$0-$9,999",West South Central,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,0,1,0
+6172758448,Very Liberal,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$25,000-$49,999",West South Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,Reason Magazine
+6172758355,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,60+,Female,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172758068,Very Conservative,Not Very Much,No,No Change,Strongly Approve,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172757223,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Female,"$50,000-$74,999",New England,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172756541,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$100,000-$124,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172755697,Very Conservative,None At All,No,No Change,Strongly Approve,45-59,Male,"$75,000-$99,999",West South Central,2017-04-28,2017-04-28,0,0,0,1,1,1,0,0,0,0,0,0
+6172755087,Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Female,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172754608,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,1,1,0,0,0,1,0,0,1,1,0
+6172754580,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,1,0
+6172754541,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172753828,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Female,"$200,000 & up",East South Central,2017-04-28,2017-04-28,0,1,1,0,0,0,0,0,0,0,0,0
+6172753587,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Approve,18-29,Female,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172752922,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",New England,2017-04-28,2017-04-28,1,1,0,0,0,0,1,0,1,0,0,0
+6172752915,Very Conservative,Not Very Much,No,No Change,Strongly Approve,60+,Female,"$125,000-$149,999",East South Central,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6172752892,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,"$150,000-$174,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,0,1,0,0,0,0,1,0
+6172752634,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,45-59,Female,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,1,Slate and politico
+6172752505,Very Liberal,None At All,No,Increase Trust,Strongly Disapprove,45-59,Male,"$10,000-$24,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172751088,Moderate,Not Very Much,Yes,No Change,Somewhat Approve,45-59,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,1,1,0,0,0,0,0,0,1,0,0
+6172750272,Conservative,Not Very Much,No,No Change,Strongly Approve,30-44,Female,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172749887,Moderate,Not Very Much,No,Decrease Trust,Somewhat Disapprove,30-44,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172749399,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Male,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172748834,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,30-44,Female,Prefer Not To Answer,East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172748754,Very Conservative,None At All,No,Decrease Trust,Strongly Approve,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,1,0
+6172748548,Liberal,Fair Amount,No,Decrease Trust,Strongly Disapprove,45-59,Male,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,0,0,1,News and Guts (Dan Rather)
+6172748458,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,18-29,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,1,0,1,0,0,1,0,0,0,0,0
+6172747725,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172746000,Liberal,Fair Amount,No,No Change,Somewhat Disapprove,60+,Male,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172745425,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,60+,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,Bloomberg
+6172745295,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$125,000-$149,999",West North Central,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,0,0
+6172745242,Moderate,None At All,Yes,No Change,Somewhat Approve,60+,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,1,0,0,0
+6172743868,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",West North Central,2017-04-28,2017-04-28,0,0,1,0,0,0,1,0,1,0,0,0
+6172743627,Conservative,Fair Amount,No,No Change,Somewhat Disapprove,18-29,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,1,0,0
+6172743097,Moderate,None At All,No,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,bills bar and tap room
+6172743009,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,60+,Male,"$150,000-$174,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none
+6172742598,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,Rublic Radio WNYC
+6172742503,Very Conservative,None At All,Yes,Increase Trust,Somewhat Approve,18-29,Female,"$75,000-$99,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172742353,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,0
+6172742226,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172741221,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-28,2017-04-28,1,1,1,0,0,0,0,0,0,1,0,0
+6172740875,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,"$25,000-$49,999",New England,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,1,1,0
+6172740661,Moderate,Fair Amount,No,No Change,Somewhat Approve,45-59,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172740352,Moderate,Fair Amount,No,Decrease Trust,Somewhat Disapprove,18-29,Male,"$75,000-$99,999",West North Central,2017-04-28,2017-04-28,1,0,0,0,0,0,0,0,0,0,0,0
+6172740295,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,1,0,0
+6172740019,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,1,0,0,1,0,0,0,0,0,0,0,"MSNBC, BBC WORLD, PBS, Los Angeles Times"
+6172739966,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,0,0
+6172739725,Liberal,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Male,"$175,000-$199,999",Pacific,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172739337,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,0,0,0,0,0,0,0,1,0
+6172739320,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$200,000 & up",New England,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,0,0,1,0
+6172739167,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Male,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,1,0,0,0,NPR
+6172739081,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172738886,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172738611,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,0,0,0,0
+6172738250,Moderate,Fair Amount,No,Decrease Trust,Somewhat Approve,45-59,Male,"$10,000-$24,999",Mountain,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,0
+6172738174,Moderate,Fair Amount,No,No Change,Somewhat Disapprove,60+,Male,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,abc news
+6172737316,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,1,0
+6172736882,Conservative,Not Very Much,No,No Change,Strongly Approve,45-59,Female,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,OAN
+6172736789,Moderate,Great Deal,Yes,No Change,Strongly Disapprove,45-59,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172736497,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,1,0,1,1,0,0,1,0,0,0,0,0
+6172736368,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,0,0,"Village Voice, The Independent"
+6172735571,Moderate,Fair Amount,No,Increase Trust,Strongly Approve,45-59,Male,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172735377,Moderate,Not Very Much,No,No Change,Somewhat Approve,45-59,Male,"$75,000-$99,999",New England,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,0,0,The NY Post
+6172734891,Very Conservative,Not Very Much,No,No Change,Somewhat Approve,60+,Male,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,0,0,0,1,0,0,0,1,0,0,0
+6172733624,Liberal,Fair Amount,No,No Change,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172733620,Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,1,One America News
+6172732763,Conservative,Great Deal,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172731733,Moderate,Fair Amount,No,No Change,Strongly Disapprove,45-59,Male,"$125,000-$149,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172731334,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,1,1,0,1,0,0,1,0,0,1,0,"PBS, BBC, NBC, LA Times, Chicago Tribune"
+6172731060,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$100,000-$124,999",Mountain,2017-04-28,2017-04-28,1,0,1,1,0,0,0,0,0,0,0,0
+6172730900,Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,1,0,0,Public TV/Radio
+6172730806,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,0,1,0,"Mic, the Skimm"
+6172730242,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$50,000-$74,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172729872,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$150,000-$174,999",West South Central,2017-04-28,2017-04-28,0,1,0,0,1,1,0,0,0,0,0,0
+6172729629,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$125,000-$149,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,1,0,0,0,0,1,1,0,0
+6172729416,Moderate,Not Very Much,No,No Change,Somewhat Approve,30-44,Female,"$200,000 & up",East South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172729036,Moderate,Fair Amount,No,No Change,Somewhat Approve,60+,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,1,0,0,0,0,0
+6172729009,Conservative,None At All,No,Increase Trust,Somewhat Approve,60+,Male,"$200,000 & up",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172728112,Conservative,Fair Amount,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,1,1,0,0
+6172727254,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",East North Central,2017-04-28,2017-04-28,0,0,0,1,0,0,1,0,0,1,0,0
+6172727073,Liberal,Great Deal,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,"Reuters, NPR, The Economist"
+6172726699,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$200,000 & up",South Atlantic,2017-04-28,2017-04-28,0,0,1,0,1,0,0,0,0,0,0,0
+6172726369,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,60+,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172726333,Conservative,Fair Amount,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",East South Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,ABC News
+6172725738,Conservative,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$175,000-$199,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172725381,Liberal,None At All,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,0
+6172723824,Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Female,Prefer Not To Answer,Mountain,2017-04-28,2017-04-28,0,0,1,0,0,0,0,0,0,0,0,0
+6172723135,Conservative,Fair Amount,No,No Change,Strongly Disapprove,30-44,Female,"$0-$9,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172722335,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$200,000 & up",Middle Atlantic,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,0,0,0
+6172719857,Moderate,Fair Amount,No,No Change,Somewhat Approve,60+,Female,"$200,000 & up",Pacific,2017-04-28,2017-04-28,1,0,1,0,1,0,1,0,0,1,0,0
+6172719803,Conservative,Not Very Much,No,No Change,Somewhat Approve,45-59,Male,"$100,000-$124,999",New England,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,1,0
+6172719543,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,1,0,0,0,0,0,0,0,0,0,0
+6172718902,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172718310,Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",Mountain,2017-04-28,2017-04-28,0,1,0,1,0,0,0,1,0,0,0,0
+6172718009,Conservative,Not Very Much,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",Middle Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,1,0,0,0,0,0
+6172717908,Conservative,None At All,Yes,Increase Trust,Somewhat Approve,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172717753,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,Pacific,2017-04-28,2017-04-28,0,0,0,0,0,1,0,0,0,0,1,AnimeNewsNetwork
+6172717308,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,MSNBC
+6172717199,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Female,Prefer Not To Answer,South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172715754,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,1,1,1,1,0
+6172715663,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$100,000-$124,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172715530,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,1,0,1,1,0,0,1,1,0,0,0,0
+6172715339,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,none!
+6172715022,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",South Atlantic,2017-04-28,2017-04-28,1,0,0,0,0,0,0,1,1,0,0,0
+6172714520,Moderate,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Female,"$75,000-$99,999",Middle Atlantic,2017-04-28,2017-04-28,0,1,1,0,0,0,0,0,0,0,0,0
+6172714513,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$25,000-$49,999",South Atlantic,2017-04-28,2017-04-28,1,1,1,0,0,0,1,0,0,0,1,0
+6172714410,Moderate,Fair Amount,No,No Change,Somewhat Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,1,1,1,1,1,0,1,0,0,1,1,0
+6172714105,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,1,0,0,0
+6172714001,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,1,1,0,1,0,0,0,0,1,0,1,BBC
+6172713939,Liberal,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$75,000-$99,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,East Bay Times
+6172713869,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",West South Central,2017-04-28,2017-04-28,1,0,0,1,0,0,1,0,1,1,0,MSNBC
+6172713652,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Female,"$25,000-$49,999",New England,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,msn.com
+6172712988,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,"$175,000-$199,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6172712887,Conservative,None At All,No,No Change,Strongly Approve,60+,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172711934,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$75,000-$99,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None of them.
+6172711381,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",West South Central,2017-04-28,2017-04-28,0,0,0,0,0,0,1,0,0,0,0,0
+6172711074,Conservative,Fair Amount,Yes,Increase Trust,Somewhat Approve,45-59,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,1,1,0,1,1,0,1,0,1,0,0,0
+6172710154,Conservative,Not Very Much,No,No Change,Somewhat Approve,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172709963,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",West North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,0,0,0,1,0,0
+6172709540,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172709518,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,1,0
+6172709235,Moderate,Fair Amount,No,No Change,Somewhat Approve,30-44,Female,Prefer Not To Answer,New England,2017-04-28,2017-04-28,1,1,1,1,0,0,1,0,0,1,1,0
+6172708991,Moderate,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172708469,Moderate,Not Very Much,No,No Change,Somewhat Disapprove,60+,Female,"$10,000-$24,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172708327,Liberal,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$75,000-$99,999",East North Central,2017-04-28,2017-04-28,0,0,0,0,1,0,0,0,0,0,0,0
+6172707764,Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Female,"$75,000-$99,999",East South Central,2017-04-28,2017-04-28,1,0,1,1,0,0,0,0,0,1,1,0
+6172707274,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",East North Central,2017-04-28,2017-04-28,1,0,1,0,0,0,1,0,1,1,0,0
+6172706927,Liberal,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$50,000-$74,999",South Atlantic,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,1,0,0
+6172705715,Moderate,None At All,No,No Change,Strongly Approve,45-59,Female,"$50,000-$74,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,0,0,0,0,0,0,0,None
+6172704434,Very Conservative,Fair Amount,No,Increase Trust,Strongly Approve,60+,Female,"$25,000-$49,999",East North Central,2017-04-28,2017-04-28,0,1,0,0,1,0,1,0,1,1,1,0
+6172704057,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$100,000-$124,999",Pacific,2017-04-28,2017-04-28,0,0,0,0,1,1,0,0,0,0,0,0
+6172701124,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,1,0,0
+6172701055,Conservative,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Insurance Forum
+6172700780,Moderate,None At All,Yes,Increase Trust,Somewhat Disapprove,45-59,Female,"$10,000-$24,999",West South Central,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172700686,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",West South Central,2017-04-27,2017-04-27,0,1,0,0,1,1,0,0,0,0,0,0
+6172700627,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172699963,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,local newspsper
+6172699787,Moderate,None At All,Yes,No Change,Somewhat Approve,30-44,Male,"$100,000-$124,999",West South Central,2017-04-27,2017-04-27,0,1,0,1,0,0,0,0,0,0,0,0
+6172699531,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Male,"$125,000-$149,999",Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,0,1,1,"LA Times, Daily Breeze Barrons Financial Times"
+6172699380,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Only the publically funded news teams
+6172699251,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,1,0,0,0,0,1,1,1,0,0,MSNBC
+6172698619,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,0
+6172698538,Moderate,None At All,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none
+6172698183,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,MSNBC
+6172697812,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,1,0,0
+6172697564,Conservative,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none of them
+6172697139,Moderate,None At All,No,Decrease Trust,Strongly Approve,45-59,Female,Prefer Not To Answer,East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172696832,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,Msnbc
+6172696798,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Middle Atlantic,2017-04-27,2017-04-27,1,0,0,0,0,0,1,0,0,0,1,0
+6172696216,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Female,"$75,000-$99,999",South Atlantic,2017-04-27,2017-04-27,0,1,0,1,1,0,0,0,0,0,0,0
+6172695793,Very Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$150,000-$174,999",South Atlantic,2017-04-27,2017-04-27,0,1,0,1,1,1,0,0,0,0,0,0
+6172695410,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",West South Central,2017-04-27,2017-04-27,1,1,0,0,0,0,1,0,0,0,0,0
+6172694343,Conservative,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,New England,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,0,0,0,0
+6172692322,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$100,000-$124,999",East South Central,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,1,0,0
+6172692139,Very Liberal,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,0,0,1,0,0,0,0,0,0,0,The Guardian
+6172691728,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,0,0,0,1,0,0,1,1,0
+6172690911,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$10,000-$24,999",West South Central,2017-04-27,2017-04-27,0,1,0,1,1,0,1,0,0,0,1,0
+6172690459,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Female,Prefer Not To Answer,0,2017-04-27,2017-04-27,1,1,0,0,1,0,1,0,0,0,0,0
+6172690220,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,1,1,0,0,0
+6172689874,Very Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,"NPR Radio, YouTube media (Aggressive Progressive, Secular Talk, Redacted Tonight), TYT"
+6172689482,Conservative,Not Very Much,No,No Change,Strongly Approve,60+,Female,"$25,000-$49,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Christian Science Monitor
+6172688341,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$100,000-$124,999",East North Central,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,0,0,NPR
+6172687217,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",West North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,1,1,0
+6172686779,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,East South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,1,0
+6172686672,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,0,1,0,0,0,1,0,0,0,0,0
+6172685755,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,NPR
+6172684637,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172684420,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",West South Central,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,1,0,0,0
+6172682290,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$75,000-$99,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,1,1,0,0,1,0,1,0,1,MSNBC
+6172681060,Very Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Female,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,0,1,0,0,1,0,0,0,0,0,0,Fox Business
+6172680470,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$175,000-$199,999",New England,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,NPR
+6172680449,Very Conservative,None At All,No,Increase Trust,Somewhat Disapprove,18-29,Female,"$75,000-$99,999",West North Central,2017-04-27,2017-04-27,0,0,0,1,0,0,0,0,0,0,0,0
+6172680416,Conservative,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Female,"$50,000-$74,999",East South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,0,0
+6172679846,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Female,"$10,000-$24,999",West South Central,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,0,0,0,0
+6172679236,Conservative,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$175,000-$199,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,0,0,0
+6172678619,Moderate,Fair Amount,Yes,No Change,Somewhat Approve,45-59,Female,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,1,0,0,0,1,0,0,1,0,0
+6172678409,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$0-$9,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,0
+6172677513,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,1,0,0,BBC News   
+6172676506,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$75,000-$99,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,NBC
+6172676018,Liberal,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,1,1,1,1,0,0,0,0,0,0,1,NPR
+6172674368,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",South Atlantic,2017-04-27,2017-04-27,1,1,1,1,0,0,1,1,1,1,1,0
+6172674300,Moderate,Not Very Much,No,No Change,Somewhat Approve,30-44,Female,"$0-$9,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,I believe that they are all biased
+6172674050,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172673567,Conservative,None At All,No,No Change,Somewhat Approve,60+,Male,"$50,000-$74,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none of the above
+6172673447,Liberal,Fair Amount,No,Decrease Trust,Strongly Disapprove,45-59,Female,"$10,000-$24,999",West North Central,2017-04-27,2017-04-27,1,1,1,1,1,0,1,0,1,1,1,The marijuana Times
+6172672621,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Female,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,1,0
+6172670175,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,1,0,1,1,0,0,1,0,0,1,1,NPR
+6172670049,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$100,000-$124,999",New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none
+6172669741,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,1,0,0
+6172669552,Conservative,Not Very Much,No,Decrease Trust,Strongly Approve,45-59,Male,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172669230,Liberal,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,I only trust syndicated talk show radio host like Sean Hanitty or Mark Levin
+6172668787,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$25,000-$49,999",New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172668165,Conservative,Fair Amount,Yes,Decrease Trust,Strongly Disapprove,60+,Male,"$125,000-$149,999",Mountain,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,"Financial times, uk London guardian "
+6172667826,Moderate,Not Very Much,No,No Change,Somewhat Approve,18-29,Female,"$0-$9,999",West North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172667563,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,0,0,0,0,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,0
+6172665846,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$75,000-$99,999",West South Central,2017-04-27,2017-04-27,0,1,0,0,1,0,0,0,0,0,0,0
+6172665617,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,"$25,000-$49,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172665024,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,60+,Female,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None - they are all biased
+6172664692,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$25,000-$49,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,1,0,0,0,1,0,0,0,1,0
+6172663684,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,1,0
+6172663672,Moderate,Fair Amount,No,Decrease Trust,Somewhat Approve,45-59,Male,Prefer Not To Answer,Middle Atlantic,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,0
+6172663499,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,30-44,Male,"$10,000-$24,999",Mountain,2017-04-27,2017-04-27,0,1,0,0,1,1,0,0,0,0,0,local paper
+6172663490,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$125,000-$149,999",East South Central,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,1,0,0,0
+6172663401,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172663380,Moderate,Not Very Much,No,No Change,Somewhat Approve,45-59,Female,"$0-$9,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172663339,Liberal,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,60+,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,1,0,0,0,0,0,1,0,0,0,0,0
+6172663335,Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$75,000-$99,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0, I don't think any of them report the news. Accurately and fairly 
+6172662745,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,1,0,0
+6172662518,Moderate,None At All,Yes,No Change,Strongly Disapprove,30-44,Female,"$125,000-$149,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,1,0,0,0,0
+6172660669,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172657943,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,0,0,0
+6172657304,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,I no longer trust any news source
+6172656775,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,1,0,The LA Times
+6172656615,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$175,000-$199,999",Pacific,2017-04-27,2017-04-27,0,0,0,1,0,0,0,0,0,1,1,0
+6172656082,Conservative,Not Very Much,No,Decrease Trust,Somewhat Approve,18-29,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,0,0,0
+6172655330,Very Liberal,Fair Amount,Yes,No Change,Strongly Disapprove,30-44,Male,"$75,000-$99,999",East North Central,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,1,0,0,0
+6172654679,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Male,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172654004,Very Conservative,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,"$175,000-$199,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,1,0,0,0,0,0,Washington Times
+6172653168,Liberal,Great Deal,No,No Change,Strongly Disapprove,45-59,Male,"$100,000-$124,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,1,1,0
+6172652817,Moderate,None At All,No,No Change,Somewhat Approve,60+,Male,"$175,000-$199,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172652432,Very Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,30-44,Male,"$25,000-$49,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,The Blaze
+6172652037,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,1,1,0,Fresno Bee
+6172651929,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,"My local news on CBS, ABC, KTVU, and NBC"
+6172651759,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$175,000-$199,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,MSNBC
+6172651571,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Female,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,I don't trust any of these.
+6172650470,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$125,000-$149,999",Mountain,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,1,0,0
+6172650422,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,0
+6172650256,Very Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,"$200,000 & up",Middle Atlantic,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172649826,Conservative,Not Very Much,No,No Change,Strongly Approve,60+,Male,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,one american news
+6172649578,Moderate,Not Very Much,Yes,Increase Trust,Strongly Approve,45-59,Female,"$200,000 & up",South Atlantic,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172649497,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,60+,Male,"$75,000-$99,999",New England,2017-04-27,2017-04-27,0,1,0,0,1,0,0,0,0,0,0,0
+6172649213,Very Conservative,None At All,No,No Change,Strongly Approve,45-59,Female,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,1,1,0,0,0,0,0,0
+6172648372,Liberal,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,West North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,0,0,0
+6172648152,Very Liberal,Not Very Much,Yes,No Change,Strongly Disapprove,45-59,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,0
+6172647703,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$125,000-$149,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,1,NPR
+6172646976,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,1,0,0,0
+6172646179,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$125,000-$149,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,0
+6172646024,Moderate,None At All,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,West North Central,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,0,0
+6172644494,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,30-44,Female,"$150,000-$174,999",East North Central,2017-04-27,2017-04-27,0,1,0,1,0,0,0,0,0,0,0,RFE/RL
+6172644308,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+6172644231,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,1,0,0
+6172644230,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,0
+6172643715,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,BBC News
+6172642563,Moderate,None At All,Yes,Increase Trust,Somewhat Approve,60+,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none
+6172642530,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",Mountain,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,1,0,The Guardian
+6172642166,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$25,000-$49,999",East South Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172642077,Conservative,Fair Amount,No,No Change,Somewhat Approve,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172641887,Moderate,Not Very Much,No,No Change,Somewhat Approve,60+,Male,Prefer Not To Answer,West North Central,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172641296,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,1,0,0,1,1,0,0,0,0,0,0
+6172640489,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$150,000-$174,999",New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,1,0
+6172638785,Moderate,Not Very Much,Yes,Increase Trust,Somewhat Approve,45-59,Female,"$25,000-$49,999",East South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172638778,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Male,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,National Public Radio
+6172636833,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Female,"$25,000-$49,999",Mountain,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,1,0,0,0
+6172636648,Moderate,None At All,No,No Change,Somewhat Disapprove,30-44,Female,"$75,000-$99,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172636602,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$125,000-$149,999",East North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,0,0,0
+6172635906,Moderate,None At All,No,No Change,Strongly Approve,45-59,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172635798,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",West South Central,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,1,0,0,0
+6172635514,Very Liberal,None At All,No,No Change,Strongly Approve,45-59,Female,"$200,000 & up",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Jesus Christ 
+6172635438,Conservative,None At All,No,No Change,Strongly Disapprove,60+,Male,"$50,000-$74,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Non of them
+6172634642,Conservative,Not Very Much,Yes,No Change,Strongly Approve,45-59,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172634459,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,MSNBC
+6172634438,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,45-59,Male,Prefer Not To Answer,New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172632906,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Middle Atlantic,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,0,0,0
+6172632828,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,0,1,1,The Advocate 
+6172630096,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172629802,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,1,1,0
+6172629778,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$175,000-$199,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,0
+6172629291,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,0,1,0,0,1,0,0,0,0,0,0,0
+6172628663,Conservative,None At All,No,Increase Trust,Strongly Approve,45-59,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172628161,Moderate,None At All,No,No Change,Somewhat Approve,45-59,Female,"$100,000-$124,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,BBC
+6172626955,Moderate,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",South Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,1,0,0,0
+6172626438,Moderate,Fair Amount,No,No Change,Somewhat Disapprove,45-59,Female,"$10,000-$24,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172624766,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Local tv news 
+6172624560,Conservative,Not Very Much,No,No Change,Strongly Approve,60+,Female,"$100,000-$124,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172624495,Liberal,Great Deal,Yes,No Change,Strongly Disapprove,60+,Female,"$175,000-$199,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,1,1,0,0,1,1,1,1,1,0
+6172624404,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172624205,Liberal,None At All,Yes,No Change,Somewhat Disapprove,18-29,Female,"$50,000-$74,999",West North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172624183,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Male,Prefer Not To Answer,East North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,0,1,0
+6172623851,Conservative,None At All,No,Increase Trust,Somewhat Approve,30-44,Male,"$50,000-$74,999",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,NONE
+6172622883,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Mountain,2017-04-27,2017-04-27,0,0,1,0,1,0,1,0,0,0,0,0
+6172622106,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,1,0,0,0,0,0
+6172620937,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$50,000-$74,999",New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none
+6172620813,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172620160,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,0,0,Apple News
+6172620000,Very Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172618579,Very Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,0,1,0
+6172618530,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Male,"$125,000-$149,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,1,MSNBC
+6172618415,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$150,000-$174,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,1,0,0,0
+6172618095,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,18-29,Female,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,0,0,0,0,0,0,0,0,0
+6172617834,Very Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$0-$9,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,msnbc
+6172613829,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,"UK Guardian, BBC, UPI"
+6172613154,Very Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Male,"$75,000-$99,999",West South Central,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,0,0,0
+6172612199,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Male,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,FAIR.org
+6172611849,Moderate,None At All,No,No Change,Somewhat Approve,60+,Female,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Sky News
+6172610731,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Male,Prefer Not To Answer,Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172609119,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,1,0,1,1,0,0,1,0,1,0,0,0
+6172609039,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,East North Central,2017-04-27,2017-04-27,1,1,1,1,0,0,0,0,0,0,0,0
+6172603735,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,1,0,0
+6172603195,Conservative,Not Very Much,No,No Change,Somewhat Approve,30-44,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172602791,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,West South Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,0,0,0
+6172602759,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Male,"$100,000-$124,999",Pacific,2017-04-27,2017-04-27,0,1,0,0,1,0,1,0,0,0,0,0
+6172601662,Moderate,Fair Amount,No,Increase Trust,Somewhat Disapprove,60+,Male,"$200,000 & up",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,1,1,0
+6172600661,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,1,0,0,1,0,0,0,0,0,0,0
+6172600229,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,18-29,Male,"$25,000-$49,999",Mountain,2017-04-27,2017-04-27,1,1,1,1,1,0,1,0,1,1,1,0
+6172600027,Conservative,None At All,No,Increase Trust,Somewhat Approve,60+,Male,"$100,000-$124,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172599624,Conservative,Not Very Much,No,Increase Trust,Somewhat Approve,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,RT/Ruptly News (Russian)
+6172598812,Very Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Male,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172597797,Moderate,Not Very Much,No,Increase Trust,Somewhat Approve,45-59,Female,"$150,000-$174,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,1,0
+6172597750,Liberal,Great Deal,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,1,0,0,"the guardian, christian science monitor"
+6172596554,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Male,"$75,000-$99,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,1,0,0,0
+6172595088,Moderate,Not Very Much,No,No Change,Somewhat Approve,45-59,Male,"$100,000-$124,999",Mountain,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,0,0,0
+6172594699,Moderate,Fair Amount,No,No Change,Strongly Approve,45-59,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,0,1,0,0,0,1,0
+6172594335,Very Conservative,None At All,No,No Change,Strongly Approve,45-59,Female,"$125,000-$149,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172594150,Conservative,Fair Amount,No,No Change,Somewhat Approve,60+,Female,"$75,000-$99,999",West South Central,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,1,1,0
+6172593439,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Female,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,1,0,1,0
+6172592866,Moderate,None At All,No,Increase Trust,Strongly Approve,45-59,Male,"$100,000-$124,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,"None fully, accurately and fairly "
+6172592486,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,0,0,0,1,0,0,1,0,0,1,0,0
+6172590614,Conservative,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,Prefer Not To Answer,South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,The Economist 
+6172589725,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,Prefer Not To Answer,New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,"no single source, read a variety"
+6172588461,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,Prefer Not To Answer,West North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,0,1,0,1,1,0
+6172588045,Conservative,Not Very Much,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$25,000-$49,999",West North Central,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,0,1,1,0
+6172587956,Moderate,Great Deal,No,Increase Trust,Somewhat Disapprove,60+,Female,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,1,0,1,0
+6172587735,Conservative,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,1,1,0,0
+6172587569,Liberal,Fair Amount,No,No Change,Somewhat Approve,45-59,Female,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,0,0,0
+6172587269,Very Conservative,Fair Amount,No,No Change,Somewhat Disapprove,45-59,Male,Prefer Not To Answer,New England,2017-04-27,2017-04-27,0,0,0,0,1,0,1,0,0,0,0,0
+6172587104,Moderate,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,Prefer Not To Answer,West North Central,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,0,0,0,0
+6172586203,Moderate,None At All,No,No Change,Somewhat Approve,45-59,Male,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,trust none 
+6172584921,Conservative,Fair Amount,No,Decrease Trust,Somewhat Disapprove,30-44,Female,"$25,000-$49,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172583863,Very Liberal,Fair Amount,No,Increase Trust,Somewhat Disapprove,30-44,Female,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,1,0,1,1,0,0,0,0,1,1,1,0
+6172583821,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Male,"$100,000-$124,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None of the above
+6172583429,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$150,000-$174,999",Pacific,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,0,0,0,0
+6172583382,Conservative,None At All,No,No Change,Somewhat Approve,60+,Male,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,I trust NO news service.  They are all bought and paid for by special interests.
+6172581924,Moderate,None At All,No,Increase Trust,Somewhat Approve,18-29,Male,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172581164,Moderate,Fair Amount,No,Decrease Trust,Strongly Disapprove,60+,Female,"$0-$9,999",West North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,0,0
+6172580029,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,1,1,0,0,0,0,0,0,0,0,0,"Reuters, Al Jazeera, BBC"
+6172579676,Moderate,None At All,No,Increase Trust,Strongly Disapprove,18-29,Female,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none
+6172579565,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,0,0,0
+6172579072,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,18-29,Female,"$0-$9,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,1,1,0,0,0,0
+6172578963,Moderate,Fair Amount,No,No Change,Strongly Disapprove,60+,Male,"$75,000-$99,999",New England,2017-04-27,2017-04-27,1,1,1,1,0,0,0,0,0,0,0,0
+6172578356,Very Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Male,"$125,000-$149,999",Mountain,2017-04-27,2017-04-27,0,1,1,0,1,0,0,0,0,0,0,0
+6172577610,Very Conservative,None At All,Yes,Increase Trust,Somewhat Approve,45-59,Male,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,0,1,1,0,0,0,0,0,0
+6172577024,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,45-59,Female,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,0,0,0,0
+6172576987,Conservative,None At All,No,Increase Trust,Somewhat Approve,60+,Male,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,1,0,0,0,0,0,0
+6172575983,Very Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$50,000-$74,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,1,0,0,0
+6172575658,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,1,0,0,0
+6172574085,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,60+,Female,"$25,000-$49,999",Mountain,2017-04-27,2017-04-27,1,1,0,1,0,0,0,0,0,1,1,0
+6172574065,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,1,1,0
+6172573196,Moderate,Fair Amount,No,No Change,Somewhat Approve,45-59,Male,"$200,000 & up",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Suspect all 
+6172571365,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Female,"$100,000-$124,999",Middle Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172570983,Conservative,None At All,No,Increase Trust,Strongly Approve,60+,Female,"$0-$9,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none of the above
+6172570681,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,45-59,Female,"$50,000-$74,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,none really they all lie :) 
+6172570269,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,Prefer Not To Answer,Pacific,2017-04-27,2017-04-27,0,0,0,1,1,0,0,0,0,0,0,0
+6172570009,Moderate,Fair Amount,No,Increase Trust,Somewhat Approve,60+,Female,"$125,000-$149,999",Pacific,2017-04-27,2017-04-27,0,0,1,0,0,0,0,0,0,0,0,0
+6172568047,Liberal,Fair Amount,Yes,Increase Trust,Strongly Disapprove,30-44,Female,"$75,000-$99,999",South Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,1,1,0,0
+6172565026,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,l don't trust any one news. I check from several and get a consensus 
+6172564854,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,18-29,Female,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,Cleveland 1 News
+6172564130,Moderate,Great Deal,Yes,Increase Trust,Strongly Disapprove,45-59,Male,"$200,000 & up",Middle Atlantic,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,0,0,1,0
+6172563860,Moderate,None At All,No,Increase Trust,Somewhat Approve,45-59,Male,"$50,000-$74,999",West South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172563656,Moderate,None At All,No,Increase Trust,Somewhat Disapprove,45-59,Female,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None at this time.  Tired of fake news
+6172562270,Very Liberal,None At All,Yes,Decrease Trust,Strongly Approve,60+,Male,"$25,000-$49,999",South Atlantic,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172562071,Moderate,Fair Amount,Yes,Increase Trust,Somewhat Disapprove,45-59,Male,"$100,000-$124,999",West South Central,2017-04-27,2017-04-27,0,1,0,0,0,0,1,0,0,1,1,0
+6172560817,Liberal,Great Deal,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$0-$9,999",Middle Atlantic,2017-04-27,2017-04-27,1,1,1,1,0,0,1,0,1,1,1,0
+6172560497,Moderate,Fair Amount,No,No Change,Somewhat Disapprove,45-59,Male,"$25,000-$49,999",Pacific,2017-04-27,2017-04-27,0,0,0,0,0,0,1,0,0,0,0,0
+6172559897,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,60+,Male,"$200,000 & up",East North Central,2017-04-27,2017-04-27,0,1,0,0,0,0,0,0,1,0,0,0
+6172559790,Moderate,Fair Amount,Yes,Increase Trust,Strongly Disapprove,60+,Female,"$100,000-$124,999",West South Central,2017-04-27,2017-04-27,1,1,0,1,0,0,1,0,0,0,0,0
+6172559651,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$25,000-$49,999",East South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,1,0,0
+6172559143,Conservative,Fair Amount,No,Increase Trust,Somewhat Disapprove,45-59,Male,"$75,000-$99,999",Pacific,2017-04-27,2017-04-27,0,1,1,1,0,0,1,0,0,1,1,0
+6172558123,Conservative,Not Very Much,No,Increase Trust,Strongly Approve,60+,Female,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,0,0,0,0,1,0,0,0,0,0,0,0
+6172556820,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,45-59,Female,"$25,000-$49,999",West North Central,2017-04-27,2017-04-27,1,0,0,0,0,0,1,0,0,1,0,0
+6172555741,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Male,"$25,000-$49,999",East North Central,2017-04-27,2017-04-27,0,0,1,0,0,0,1,0,0,0,0,0
+6172555715,Conservative,None At All,No,Increase Trust,Somewhat Approve,45-59,Male,"$200,000 & up",0,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None of them. They all pick and choose what they think will draw attention to them
+6172555584,Moderate,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$200,000 & up",Mountain,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,1,1,0,0
+6172555283,Moderate,Fair Amount,Yes,No Change,Strongly Disapprove,60+,Female,"$10,000-$24,999",Pacific,2017-04-27,2017-04-27,1,0,0,1,0,0,0,0,0,1,0,ABC World News Tonight With David Muir
+6172554893,Liberal,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,"$10,000-$24,999",East North Central,2017-04-27,2017-04-27,1,1,0,0,0,0,1,0,0,1,0,0
+6172554463,Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$50,000-$74,999",Middle Atlantic,2017-04-27,2017-04-27,1,0,0,0,0,0,1,0,0,0,1,0
+6172553964,Moderate,Not Very Much,No,Increase Trust,Somewhat Disapprove,30-44,Male,"$100,000-$124,999",New England,2017-04-27,2017-04-27,0,0,0,0,0,1,0,0,0,0,0,"Reason Magazine, C-Span"
+6172553640,Moderate,Not Very Much,Yes,Increase Trust,Strongly Disapprove,60+,Female,Prefer Not To Answer,Middle Atlantic,2017-04-27,2017-04-27,1,0,0,1,0,0,1,0,0,0,0,0
+6172552016,Very Liberal,Not Very Much,No,Increase Trust,Strongly Disapprove,30-44,Female,"$10,000-$24,999",East South Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,"NPR, PBS, BBC"
+6172551582,Very Liberal,None At All,No,No Change,Strongly Disapprove,60+,Female,"$50,000-$74,999",Pacific,2017-04-27,2017-04-27,0,0,0,1,0,0,1,0,0,0,0,0
+6172550900,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,30-44,Female,"$150,000-$174,999",West South Central,2017-04-27,2017-04-27,0,0,0,1,0,0,0,0,1,0,0,BBC
+6172550571,Moderate,Not Very Much,Yes,Increase Trust,Strongly Approve,60+,Male,"$200,000 & up",East North Central,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,None
+6172549839,Moderate,Fair Amount,No,Increase Trust,Strongly Disapprove,45-59,Female,Prefer Not To Answer,New England,2017-04-27,2017-04-27,0,0,0,0,0,0,0,0,0,0,0,"Portland (Maine) Press Herald, local TV newscast"
+6172549500,Moderate,Fair Amount,Yes,No Change,Strongly Disapprove,60+,Female,"$0-$9,999",0,2017-04-27,2017-04-27,1,1,1,1,1,0,1,0,1,1,1,0
