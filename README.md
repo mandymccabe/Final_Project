@@ -21,3 +21,6 @@ Random Forest Classifier, 3 outputs, undersampled and boosted
 
 Random Forest Classifier, 3 outputs, oversampled and boosted
 ![RFC3outputsOversampleBoosted](https://user-images.githubusercontent.com/91269696/169592095-3266e6c5-5d4a-412e-90d7-2a04591c565b.PNG)
+
+
+The most Accurate Model with the best precision and recall is the Random Forest Classifier oversampling (not boosted)
