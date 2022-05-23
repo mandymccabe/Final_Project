@@ -18,6 +18,9 @@ We would like to use the dataset to determine an individual's political stance b
 ## Communication Protocols
 A group message was setup in Slack to easily share ideas and files amoungst the group members.  Additionally, Microsoft Teams will be used to setup ad hoc meetings to be able to have virtual discussions outside of class.  Phone numbers were also exchanged so that we will be able to call or text another team member in the event of an emergency. 
 
+## Final Presentation Draft
+A draft of the final presentation has been started on Google Slides- [Link](https://docs.google.com/presentation/d/1tIhUEXTKwx0YbM70ValTbkpGpcwoApw1UVZHShTGsG0/edit?usp=sharing)
+
 # Technologies Used
 
 ## Data Cleaning and Analysis
@@ -25,12 +28,15 @@ We will be utilizing Pandas to clean the data and perform exploratory analysis. 
 
 ## Database Storage
 We are using Postgres for our database.
+The ERD for our database is as follows: 
+
+![ERD](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/ERD_with_Regions.jpg)
 
 ## Machine Learning
 We are using the SciKitLearn library to create a logistic regression classifier. We train, test, and split the data using random_state and then test our accuracy score. 
 
 ## Dashboard
-We intend to use Tableau to display our findings and present our data visualization dashboard to the class. 
+We intend to use Tableau to display our findings and present our data visualization dashboard to the class. There will be two views.  One view will be interactive and allow the user to filter the graphs by using the text filters or clicking within the graphs.  The other will display the heatmaps showing how the most influentials questions for machine learning were answered comparted to the political stance of the respondent. 
 
 # Data Exploration
 ## What did we look at?
@@ -65,6 +71,14 @@ Models tried:
 
 ### Preprocessing
 The data was preprocessed by dropping column A21 from the database, which contained infrequent answers about news sources that the indivudal preferred. It was not felt to contain features that could accurately predict an individuals political leanings. Additionally, the start and end dates were not needed for the machine learning model and were not used in the database. Two database tables were created (one with all the response options marked with yes-1 or no-0): full_info and the other table displayed the respondentid with the individuals political view in text form: political_views. These tables were combined to allow for a human-readable output for the machine learning model user.
+
+### Data Split
+Data was split into testing and training groups using the following code:
+
+![splitcode](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/split.png)
+
+
+
 
 ### Refinement
 The accuracy of the machine learning model (decision tree classifier, random forest classifer, neural network) were not very high. Various methods were used to try to improve the accuracy of the models; boosting, undersampling, oversampling, and reducing the number of outputs from 5 to 3 by combining the classification of "Very Conservative" with "Conservative" and "Very Liberal" with "Liberal" and rejoining these classifications to the original dataframe (after dropping the original classifications). Unfortunately, none of the improvement techniques improved the accuracy above .69.
