@@ -35,9 +35,6 @@ The ERD for our database is as follows:
 ## Machine Learning
 We are using the SciKitLearn library to create a logistic regression classifier. We train, test, and split the data using random_state and then test our accuracy score. 
 
-## Dashboard
-We intend to use Tableau to display our findings and present our data visualization dashboard to the class. There will be two views.  One view will be interactive and allow the user to filter the graphs by using the text filters or clicking within the graphs.  The other will display the heatmaps showing how the most influentials questions for machine learning were answered comparted to the political stance of the respondent. 
-
 # Data Exploration
 ## What did we look at?
 - Number of rows of data
