@@ -36,7 +36,7 @@ We intend to use Tableau to display our findings and present our data visualizat
 ## What did we look at?
 - Number of rows of data
 - Check for any null values
-- Discuss machine learning options
+- Discuss machine learning options-need a categorical model
 - Ways to visualize the data
 
 ## What tools do we want to use?
@@ -51,14 +51,17 @@ We intend to use Tableau to display our findings and present our data visualizat
 ## Visualization
 - Interactive Tableau Dashboard: 
 		- Filters for different demographics
-		-I nteractive charts that filter each other based on
-selections
+		-Interactive charts that filter each other based on selections
 - Question Visualization
-		- Trust in media based on each demographic
-		- Political stance based on each demographic
+		- Most influentials questions for predicting political stance based on machine learning
     - Relationship between political stance and media trust
 ## Machine Learning
 Determine which machine learning model gives us the best results
+Models tried:
+- [Logistic Regression](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/Machine_Learning_Model.ipynb)- only able to predict two classes, not a good fit for our data 
+- [Decision Tree Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+- [Random Forest Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+- [Neural Network](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
 
 ### Preprocessing
 The data was preprocessed by dropping column A21 from the database, which contained infrequent answers about news sources that the indivudal preferred. It was not felt to contain features that could accurately predict an individuals political leanings. Additionally, the start and end dates were not needed for the machine learning model and were not used in the database. Two database tables were created (one with all the response options marked with yes-1 or no-0): full_info and the other table displayed the respondentid with the individuals political view in text form: political_views. These tables were combined to allow for a human-readable output for the machine learning model user.
@@ -96,6 +99,12 @@ Random Forest Classifier, 3 outputs, oversampled and boosted
 
 ![RFC3outputsOversampleBoosted](https://user-images.githubusercontent.com/91269696/169592095-3266e6c5-5d4a-412e-90d7-2a04591c565b.PNG)
 
+Neural Network Classifier, 5 outputs
+
+![NN5](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NN5.png)
+
+Neural Network Classifier, 3 outputs
+![NN3](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/nn3.png)
 
 The most Accurate Model with the best precision and recall is the Random Forest Classifier oversampling (not boosted)
 
