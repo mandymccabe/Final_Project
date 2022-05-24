@@ -54,16 +54,27 @@ We are using the SciKitLearn library to test out different machine learning clas
 Determine which machine learning model gives us the best results
 Models tried:
 - [Logistic Regression](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/Machine_Learning_Model.ipynb)
+
 	Benefits: This was a simple model that we all felt we understood well to test out initially
+	
 	Cons: Only able to predict two classes but our data need to predict 3-5 classes so not a good fit for our data 
+	
 - [Decision Tree Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+
 	Benefits: Able to predict multiple output classes, easy to interpret, not sensitive to outliers
+	
 	Cons: Prone to overfitting
+	
 - [Random Forest Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+
 	Benefits: Not sensitive to outliers, good for non linear data
+	
 	Cons: Less prone to overfitting than Decision Tree Classifiers but still a risk
+	
 - Neural Network
+- 
 	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
+	- 
 	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetworkReduced.ipynb)
 	
 	Benefits: effective at detecting nonlinear, complex relationships, higher tolerance for messy data
