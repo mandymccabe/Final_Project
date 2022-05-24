@@ -20,7 +20,18 @@ Need to do
 - Moved original & cleaned CSVs to archive folder
 
 ## Resources
+### Original Schema
 ![Schema](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/Schema.png)
+
+### First ERD
+![ERD](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/ERD.png)
+
+### Second ERD with Regions
+![ERD2](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/ERD_with_Regions.jpg)
+
+### Final schema SQL
+![FinalSchema](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/FINALschema.sql)
+
 
 ## Research Ideas
 - Which news outlets are most trusted by Americans?
