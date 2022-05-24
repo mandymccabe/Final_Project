@@ -62,10 +62,9 @@ Models tried:
 - [Random Forest Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
 	Benefits: Not sensitive to outliers, good for non linear data
 	Cons: Less prone to overfitting than Decision Tree Classifiers but still a risk
-- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
-	Benefits: effective at detecting nonlinear, complex relationships, higher tolerance for messy data
-	Cons: Layers are complex and difficult to understand, prone to overfitting
-- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork_Reduced.ipynb)
+- Neural Network
+	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
+	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetworkReduced.ipynb)
 	Benefits: effective at detecting nonlinear, complex relationships, higher tolerance for messy data
 	Cons: Layers are complex and difficult to understand, prone to overfitting
 	
