@@ -24,7 +24,8 @@ A group message was setup in Slack to easily share ideas and files amoungst the 
 We are using Pandas to clean the data and perform exploratory analysis. Python and the ScikitLearn module are being used for further analysis of the data and machine learning.
 
 ### Database Storage
-We are using Postgres for our database.  The SQl queries for the tables and joins can be found at this [LINK](https://github.com/mandymccabe/Final_Project/blob/main/Resources/FINALschema.sql)
+We are using Postgres for our database.  The SQl queries for the tables and joins can be found at this [LINK](https://github.com/mandymccabe/Final_Project/blob/main/Resources/FINALschema.sql).
+
 The ERD for our database is as follows: 
 
 ![ERD](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/ERD_with_Regions.jpg)
