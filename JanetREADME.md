@@ -4,9 +4,6 @@ Need to do
 
 ## Steps taken
 - Uploaded schema 
-
-https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/Schema.png
-
 - Created new ERD with relationships
 - Ceated new DB for regions
 - Joined 2 CSVs into 1 complete 1
@@ -21,6 +18,9 @@ https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/Schema.
     - TrustInNewsViews
     - TrustInNewsDemographics
 - Moved original & cleaned CSVs to archive folder
+
+## Resources
+![Schema](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/Schema.png)
 
 ## Research Ideas
 - Which news outlets are most trusted by Americans?
