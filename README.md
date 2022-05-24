@@ -134,7 +134,8 @@ Neural Network Classifier, 5 outputs
 Neural Network Classifier, 3 outputs
 ![NN3](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/nn3.png)
 
-The most Accurate Model with the best precision and recall is the Random Forest Classifier oversampling (not boosted)
+The Random Forest Classifier (with boosting and undersampling) model was chosen because of its superior recall in two categories, F1- score for the liberal category, and precision for the moderate category.  Although the neural network had the same number of categories that performed well, it did not have that big of an edge over the RFC model (only out performing by .1 of a point or less).![image](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/ML_Comp.png)
+
 
 
 ### Feature Importance
@@ -157,8 +158,17 @@ Continued refinement of the Machine Learning Model could be done by creating a c
 		- Filters for different demographics- age, income, gender
 		- A map of the US regions that acts as a filter for the bar charts
 		-Interactive bar charts for political stance, trust in the media that filter each other based on selections
+		Mock Dashboard:
+		
+		![DB1](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB1.png)
+		
 - Survey Question Visualization
 		- Questions with the highest feature importance from machine learning compared to political stance
+		Mock Dashboard:
+		
+		![DB2](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB2.png)
+		
+		
 		
 ## Final Presentation Draft
 A draft of the final presentation has been started on Google Slides- [Link](https://docs.google.com/presentation/d/1tIhUEXTKwx0YbM70ValTbkpGpcwoApw1UVZHShTGsG0/edit?usp=sharing)
