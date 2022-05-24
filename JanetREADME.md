@@ -4,6 +4,9 @@ Need to do
 
 ## Steps taken
 - Uploaded schema 
+
+https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/Schema.png
+
 - Created new ERD with relationships
 - Ceated new DB for regions
 - Joined 2 CSVs into 1 complete 1
