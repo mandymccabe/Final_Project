@@ -153,20 +153,27 @@ The most important features for predicting political leanings were:
 ### Further Refinement
 Continued refinement of the Machine Learning Model could be done by creating a combined over/under sampling test. SMOTEENN combines the oversampling of SMOTE with the undersampling of Edited Nearest Neighbor to create a more refined and accurate machine learning model.
 
+
 ## Visualization
 - Interactive Tableau Dashboard: 
-		- Filters for different demographics- age, income, gender
-		- A map of the US regions that acts as a filter for the bar charts
-		-Interactive bar charts for political stance, trust in the media that filter each other based on selections
-		Mock Dashboard:
+
+	- Filters for different demographics- age, income, gender
 		
-		![DB1](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB1.png)
+	- A map of the US regions that acts as a filter for the bar charts
+		
+	- Interactive bar charts for political stance, trust in the media that filter each other based on selections
+		
+	Mock Dashboard:
+		
+![DB1](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB1.png)
 		
 - Survey Question Visualization
-		- Questions with the highest feature importance from machine learning compared to political stance
-		Mock Dashboard:
+
+	- Questions with the highest feature importance from machine learning compared to political stance
 		
-		![DB2](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB2.png)
+	Mock Dashboard:
+		
+![DB2](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB2.png)
 		
 		
 		
