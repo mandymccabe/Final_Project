@@ -35,8 +35,8 @@ We are using the SciKitLearn library to test out different machine learning clas
 
 ## Data Exploration
 ### What did we look at?
-- Number of rows of data
-- Check for any null values
+- Number of rows of data- code in this [file](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
+- Check for any null values- code in this [file](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
 - Discuss machine learning options-need a categorical model
 - Discuss ways to visualize the data
 
