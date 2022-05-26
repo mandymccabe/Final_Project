@@ -155,6 +155,8 @@ Continued refinement of the Machine Learning Model could be done by creating a c
 
 The dataset used had just over 1000 rows of data which is not a large amount for machine learning.  Adding more data points could help to improve the model's performance.  Additionally, the responses for "very liberal" and "very conservative" comprised a very small portion of the dataset.  Getting more respondents from those political class could help to strengthen their classification. 
 
+The testing data accuracy for the Random Forest Classifier was 99% compared to only 59% for the testing datawhich is a large gap and indicates that our model is overfitting to the training data.  We will investigate and test out ways to prevent overfitting. 
+
 
 ## Visualization
 - Interactive Tableau Dashboard: 
