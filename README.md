@@ -153,6 +153,8 @@ The most important features for predicting political leanings were:
 ### Further Refinement
 Continued refinement of the Machine Learning Model could be done by creating a combined over/under sampling test. SMOTEENN combines the oversampling of SMOTE with the undersampling of Edited Nearest Neighbor to create a more refined and accurate machine learning model.
 
+The dataset used had just over 1000 rows of data which is not a large amount for machine learning.  Adding more data points could help to improve the model's performance.  Additionally, the responses for "very liberal" and "very conservative" comprised a very small portion of the dataset.  Getting more respondents from those political class could help to strengthen their classification. 
+
 
 ## Visualization
 - Interactive Tableau Dashboard: 
