@@ -91,6 +91,8 @@ Data was split into testing and training groups using the following code:
 
 ![splitcode](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/split.png)
 
+For of the machine learning models, the dataset was split 80% for training and 20% for testing. 
+
 ### Refinement
 The accuracy of the machine learning model (decision tree classifier, random forest classifer, neural network) were not very high. Various methods were used to try to improve the accuracy of the models; boosting, undersampling, oversampling, and reducing the number of outputs from 5 to 3 by combining the classification of "Very Conservative" with "Conservative" and "Very Liberal" with "Liberal" and rejoining these classifications to the original dataframe (after dropping the original classifications). Unfortunately, none of the improvement techniques improved the accuracy above .69.
 
@@ -164,17 +166,11 @@ The testing data accuracy for the Random Forest Classifier was 99% compared to o
 		
 	- Interactive bar charts for political stance, trust in the media that filter each other based on selections
 		
-	Mock Dashboard:
-		
-![DB1](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB1.png)
-		
 - Survey Question Visualization
 
 	- Questions with the highest feature importance from machine learning compared to political stance
 		
-	Mock Dashboard:
-		
-![DB2](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/DB2.png)
+The visualizations are posted on Tableau Public following this [LINK](https://public.tableau.com/app/profile/amanda.mccabe/viz/Final_Project_16540997746330/InteractiveDashboard)
 		
 		
 		
