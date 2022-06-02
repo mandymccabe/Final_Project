@@ -4,6 +4,8 @@ Need to do
 
 ## Steps taken
 - Linked database to AWS
+-   all_responses_coded.csv
+-   political_views.csv
 - Uploaded schema 
 - Created new ERD with relationships
 - Ceated new DB for regions
