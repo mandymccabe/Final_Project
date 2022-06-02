@@ -3,6 +3,7 @@
 Need to do
 
 ## Steps taken
+- Linked database to AWS
 - Uploaded schema 
 - Created new ERD with relationships
 - Ceated new DB for regions
