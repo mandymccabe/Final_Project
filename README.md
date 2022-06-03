@@ -21,7 +21,7 @@ We would like to use the dataset to determine an individual's political stance b
 We are using Pandas to clean the data and perform exploratory analysis. Python and the ScikitLearn module are being used for further analysis of the data and machine learning.
 
 ### Database Storage
-We are using Postgres for our database.  The SQl queries for the tables and joins can be found at this [LINK](https://github.com/mandymccabe/Final_Project/blob/main/Resources/FINALschema.sql).
+We are using Postgres for our database.  The SQl queries for the tables and joins can be found at this [LINK](https://github.com/mandymccabe/Final_Project/blob/main/Database/FINALschema.sql).
 
 The ERD for our database is as follows: 
 
@@ -32,8 +32,8 @@ We are using the SciKitLearn library to test out different machine learning clas
 
 ## Data Exploration
 ### What did we look at?
-- Number of rows of data- code in this [file](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
-- Check for any null values- code in this [file](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
+- Number of rows of data- code in this [file](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetwork.ipynb)
+- Check for any null values- code in this [file](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetwork.ipynb)
 - Discuss machine learning options-need a categorical model
 - Discuss ways to visualize the data
 
@@ -50,19 +50,19 @@ We are using the SciKitLearn library to test out different machine learning clas
 ### Machine Learning
 Determine which machine learning model gives us the best results
 Models tried:
-- [Logistic Regression](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/Machine_Learning_Model.ipynb)
+- Logistic Regression
 
 	Benefits: This was a simple model that we all felt we understood well to test out initially
 	
 	Cons: Only able to predict two classes but our data need to predict 3-5 classes so not a good fit for our data 
 	
-- [Decision Tree Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+- [Decision Tree Classifier](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/FinalProjectMachineLearning.ipynb)
 
 	Benefits: Able to predict multiple output classes, easy to interpret, not sensitive to outliers
 	
 	Cons: Prone to overfitting
 	
-- [Random Forest Classifier](https://github.com/mandymccabe/Final_Project/blob/tracy_branch/FinalProjectMachineLearning.ipynb)
+- [Random Forest Classifier](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/FinalProjectMachineLearning.ipynb)
 
 	Benefits: Not sensitive to outliers, good for non linear data
 	
@@ -70,9 +70,9 @@ Models tried:
 	
 - Neural Network
 - 
-	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetwork.ipynb)
+	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetwork.ipynb)
 	- 
-	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/NeuralNetworkReduced.ipynb)
+	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetworkReduced.ipynb)
 	
 	Benefits: effective at detecting nonlinear, complex relationships, higher tolerance for messy data
 	
@@ -89,7 +89,7 @@ These tables were joined to allow for a human-readable output for the machine le
 ### Data Split
 Data was split into testing and training groups using the following code:
 
-![splitcode](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/split.png)
+![splitcode](https://github.com/mandymccabe/Final_Project/blob/main/Images/split.png)
 
 For of the machine learning models, the dataset was split 80% for training and 20% for testing. 
 
@@ -133,7 +133,7 @@ Neural Network Classifier, 5 outputs
 Neural Network Classifier, 3 outputs
 ![NN3](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/nn3.png)
 
-The Random Forest Classifier (with boosting and undersampling) model was chosen because of its superior recall in two categories, F1- score for the liberal category, and precision for the moderate category.  Although the neural network had the same number of categories that performed well, it did not have that big of an edge over the RFC model (only out performing by .1 of a point or less).![image](https://github.com/mandymccabe/Final_Project/blob/mandy_branch/ML_Comp.png)
+The Random Forest Classifier (with boosting and undersampling) model was chosen because of its superior recall in two categories, F1- score for the liberal category, and precision for the moderate category.  Although the neural network had the same number of categories that performed well, it did not have that big of an edge over the RFC model (only out performing by .1 of a point or less).![image](https://github.com/mandymccabe/Final_Project/blob/main/Images/ML_Comp.png)
 
 
 
@@ -150,17 +150,22 @@ The most important features for predicting political leanings were:
 5. Respondents who use and iOS Phone/Tablet as their Device
 
 ### Further Refinement
-Continued refinement of the Machine Learning Model could be done by creating a combined over/under sampling test. SMOTEENN combines the oversampling of SMOTE with the undersampling of Edited Nearest Neighbor to create a more refined and accurate machine learning model.
+Various updates were made to try to improve the machine learning model which appears to be overfitted to the training set (training accuaracy 99%, testing accuracy 59%). Options tried included:
+- adjusting the n_estimator
+- adjusting the size of the training and testing sets
+- over sampling and undersampling
+
+None of the adjustments made a significant change to the accuracy of the training or testing sets.  
 
 The dataset used had just over 1000 rows of data which is not a large amount for machine learning.  Adding more data points could help to improve the model's performance.  Additionally, the responses for "very liberal" and "very conservative" comprised a very small portion of the dataset.  Getting more respondents from those political class could help to strengthen their classification. 
-
-The testing data accuracy for the Random Forest Classifier was 99% compared to only 59% for the testing datawhich is a large gap and indicates that our model is overfitting to the training data.  We will investigate and test out ways to prevent overfitting. 
 
 
 ## Visualization
 - Interactive Tableau Dashboard: 
 
-	- Filters for different demographics- age, income, gender
+	- Filter income
+	
+	- Pie charts of age and gender breakdown
 		
 	- A map of the US regions that acts as a filter for the bar charts
 		
@@ -170,9 +175,9 @@ The testing data accuracy for the Random Forest Classifier was 99% compared to o
 
 	- Questions with the highest feature importance from machine learning compared to political stance
 		
-The visualizations are posted on Tableau Public following this [LINK](https://public.tableau.com/app/profile/amanda.mccabe/viz/Final_Project_16540997746330/InteractiveDashboard)
+The visualizations are posted on Tableau Public following this [LINK](https://public.tableau.com/app/profile/amanda.mccabe/viz/Final_Project_16540997746330/FinalProject?publish=yes)
 		
 		
 		
 ## Final Presentation Draft
-A draft of the final presentation has been started on Google Slides- [Link](https://docs.google.com/presentation/d/1tIhUEXTKwx0YbM70ValTbkpGpcwoApw1UVZHShTGsG0/edit?usp=sharing)
+The final presentation was created on Google Slides and can be found at the following: [Link](https://docs.google.com/presentation/d/1tIhUEXTKwx0YbM70ValTbkpGpcwoApw1UVZHShTGsG0/edit?usp=sharing)
