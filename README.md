@@ -25,7 +25,7 @@ We are using Postgres for our database.  The SQl queries for the tables and join
 
 The ERD for our database is as follows: 
 
-![ERD](https://github.com/mandymccabe/Final_Project/blob/janet_branch/Resources/ERD_with_Regions.jpg)
+![ERD](https://github.com/mandymccabe/Final_Project/blob/main/Images/ERD.png)
 
 ### Machine Learning
 We are using the SciKitLearn library to test out different machine learning classifiers. We train, test, and split the data using random_state and create classification tables to determine which model is performing the best.  
