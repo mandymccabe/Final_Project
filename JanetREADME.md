@@ -12,3 +12,6 @@ THe questions we hoped to answer were to determine an individual's political sta
 This is a representation of the ERD and Schema showing the relationships of the databases
 
 ## Slide 5
+THis is a look at how we approached our topic and the tools we used.
+
+Now, I will turn it over to Tracy to talk about the machine learning portion of the project.
