@@ -70,9 +70,9 @@ Models tried:
 	
 - Neural Network
 - 
-	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetwork.ipynb)
+	- [Neural Network with 5 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/Archive/NeuralNetwork.ipynb)
 	- 
-	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/NeuralNetworkReduced.ipynb)
+	- [Neural Network with 3 Outputs](https://github.com/mandymccabe/Final_Project/blob/main/MachineLearningModelCode/Archive/NeuralNetworkReduced.ipynb)
 	
 	Benefits: effective at detecting nonlinear, complex relationships, higher tolerance for messy data
 	
