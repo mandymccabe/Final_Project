@@ -178,6 +178,4 @@ The dataset used had just over 1000 rows of data which is not a large amount for
 The visualizations are posted on Tableau Public following this [LINK](https://public.tableau.com/app/profile/amanda.mccabe/viz/Final_Project_16540997746330/FinalProject?publish=yes)
 		
 		
-		
-## Final Presentation Draft
-The final presentation was created on Google Slides and can be found at the following: [Link](https://docs.google.com/presentation/d/1tIhUEXTKwx0YbM70ValTbkpGpcwoApw1UVZHShTGsG0/edit?usp=sharing)
+	
